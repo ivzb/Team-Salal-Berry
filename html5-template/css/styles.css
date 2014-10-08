@@ -1,1 +1,14 @@
 img {max-width: 100%}
+div#main-nav{width: 50%;float: right;margin-top: 18px;}
+
+a {
+color: lightgreen;
+text-decoration: none;
+font-weight: bold
+}
+
+
+
+.nav-tabs {
+border-bottom: 0px solid #ddd;
+}
