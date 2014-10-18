@@ -21,7 +21,7 @@ font-weight: bold;
     cursor: default;
     background-color: #fff;
     border-bottom-color: transparent;
-    background-image:url('../images/green-line2.png');
+    /*background-image:url('../images/green-line2.png');*/
     background-repeat: repeat-x;
     background-position: left bottom;
     border-right: none;
