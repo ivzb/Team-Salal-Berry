@@ -9,11 +9,16 @@ img {
     background-position: left bottom;
     border-color: #fff;
 }
-div#main-nav a:hover{
+/*div#main-nav a:hover{
 color: #000000;
 background-color: #FFFFFF;
 text-decoration: none;
 font-weight: bold;
+}*/
+
+.nav-tabs > li > a{
+	color: #FFFFFF;
+	font-weight: bold;
 }
 
 .nav-tabs > li > a:hover{
@@ -22,8 +27,8 @@ font-weight: bold;
     background-color: #fff;
     border-bottom-color: transparent;
     /*background-image:url('../images/green-line2.png');*/
-    background-repeat: repeat-x;
-    background-position: left bottom;
+    /*background-repeat: repeat-x;
+    background-position: left bottom;*/
     border-right: none;
     border-left: none;
 }
