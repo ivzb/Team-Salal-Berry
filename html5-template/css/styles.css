@@ -2,7 +2,7 @@ img {
 	max-width: 100%;
 }
 
-.mine.navbar-inverse{
+.navbar-inverse{
 	background-color: #62be1b;
     background-image:url('../images/green-line2.png');
     background-repeat: repeat-x;
@@ -16,7 +16,7 @@ text-decoration: none;
 font-weight: bold;
 }
 
-.mine.nav-tabs > li > a:hover{
+.nav-tabs > li > a:hover{
     color: #134c29;
     cursor: default;
     background-color: #fff;
