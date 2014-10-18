@@ -2,24 +2,13 @@ img {
 	max-width: 100%;
 }
 
-header {
-	background-color: #62BE1B;
-	/*border: 1px solid red;*/
+.mine.navbar-inverse{
+	background-color: #62be1b;
+    background-image:url('../images/green-line2.png');
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    border-color: #fff;
 }
-
-div#main-nav{
-/*width: 550px;*/
-float: right;
-margin-top: 18px;
-}
-
-div#main-nav a{
-color: #FFFFFF;   /*в aptana lightgreen го дава като невалиден цвят според w3.org*/
-background-color: #62BE1B;
-text-decoration: none;
-font-weight: bold;
-}
-
 div#main-nav a:hover{
 color: #000000;
 background-color: #FFFFFF;
@@ -27,6 +16,59 @@ text-decoration: none;
 font-weight: bold;
 }
 
+.mine.nav-tabs > li > a:hover{
+    color: #134c29;
+    cursor: default;
+    background-color: #fff;
+    border-bottom-color: transparent;
+    background-image:url('../images/green-line2.png');
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    border-right: none;
+    border-left: none;
+}
+
+.jumbotron{
+	background: #fff;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.jumbotron a{
+    float: left;
+}
+
+.jumbotron h1{
+    float: right;
+    clear: right;
+    font-size: 1.8em;
+    text-align: left;
+}
+
+.jumbotron p{
+    float: left;
+    clear: left;
+    margin-top: 10px;
+}
+
+.col-md-4{
+    height: 15%;
+}
+
+.col-md-4 h2{
+    background: #62be1b;
+    color: #fff;
+    padding: 10px;
+}
+
+.col-md-4:first-of-type{
+    float: right;
+}
+
 .nav-tabs {
 border-bottom: 0px solid #ddd;
+}
+
+.logo{
+	margin-top: 50px;
 }
