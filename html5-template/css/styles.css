@@ -17,21 +17,6 @@ img {
     margin-top: 15px;
 }
 
-<<<<<<< .mine/*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
-според мен менюто е по-добре да е в дясно, а също така като се направи хувър да не стига до горния
-край на браузъра, а да се вижда малко от фона на сайта*/
-#main-nav{
-    float: right;
-    margin-top: 15px;
-}
-
-/*div#main-nav a:hover{
-    color: #000000;
-    background-color: #FFFFFF;
-    text-decoration: none;
-    font-weight: bold;
-}*/
-
 .nav-tabs > li > a{
     color: #FFFFFF;
     font-weight: bold;
@@ -39,12 +24,12 @@ img {
 /*тук слагам картинката като фон, защото не можах да намеря откъде да огранича размера на ли-тата
 по-нататък като го намеря ще го оправя
 падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
-=======.nav-tabs > li > a{
+.nav-tabs > li > a{
 	color: #FFFFFF;
 	font-weight: bold;
 }
 
->>>>>>> .theirs.nav-tabs > li > a:hover{
+.nav-tabs > li > a:hover{
     color: #134c29;
     cursor: default;
     background-color: #fff;
