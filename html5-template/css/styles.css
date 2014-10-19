@@ -1,40 +1,61 @@
 img {
-	max-width: 100%;
+    max-width: 100%;
 }
 
 .navbar-inverse{
-	background-color: #62be1b;
+    background-color: #62be1b;
     background-image:url('../images/green-line2.png');
     background-repeat: repeat-x;
     background-position: left bottom;
     border-color: #fff;
 }
+/*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
+според мен менюто е по-добре да е в дясно, а също така като се направи хувър да не стига до горния
+край на браузъра, а да се вижда малко от фона на сайта*/
+#main-nav{
+    float: right;
+    margin-top: 15px;
+}
+
+<<<<<<< .mine/*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
+според мен менюто е по-добре да е в дясно, а също така като се направи хувър да не стига до горния
+край на браузъра, а да се вижда малко от фона на сайта*/
+#main-nav{
+    float: right;
+    margin-top: 15px;
+}
+
 /*div#main-nav a:hover{
-color: #000000;
-background-color: #FFFFFF;
-text-decoration: none;
-font-weight: bold;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
 }*/
 
 .nav-tabs > li > a{
+    color: #FFFFFF;
+    font-weight: bold;
+}
+/*тук слагам картинката като фон, защото не можах да намеря откъде да огранича размера на ли-тата
+по-нататък като го намеря ще го оправя
+падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
+=======.nav-tabs > li > a{
 	color: #FFFFFF;
 	font-weight: bold;
 }
 
-.nav-tabs > li > a:hover{
+>>>>>>> .theirs.nav-tabs > li > a:hover{
     color: #134c29;
     cursor: default;
     background-color: #fff;
     border-bottom-color: transparent;
-    /*background-image:url('../images/green-line2.png');*/
-    /*background-repeat: repeat-x;
-    background-position: left bottom;*/
+    background-position: left bottom;
     border-right: none;
     border-left: none;
 }
 
 .jumbotron{
-	background: #fff;
+    background: #fff;
     margin-top: 20px;
     margin-bottom: 0;
 }
@@ -71,9 +92,9 @@ font-weight: bold;
 }
 
 .nav-tabs {
-border-bottom: 0px solid #ddd;
+    border-bottom: 0px solid #ddd;
 }
 
 .logo{
-	margin-top: 50px;
+    margin-top: 50px;
 }
