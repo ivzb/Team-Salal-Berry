@@ -33,12 +33,12 @@
   <ul class="nav nav-tabs">
         
        
-           <li><a title="news" href="/news/" role="">News</a></li>
-            <li><a title="about" href="/about/" role="">About GreenUni</a></li>
-            <li><a title="mission" href="/mission/" role="">Mission</a></li>
-              <li><a title="funny" href="/funny/" role="">Fun</a></li>
-               <li><a title="gallery" href="/gallery/" role="">Gallery</a></li>
-                 <li><a title="cotacts" href="/" role="">Contacts</a></li>
+           <li><a title="news" href="news.php" role="">News</a></li>
+            <li><a title="about" href="about.php" role="">About GreenUni</a></li>
+            <li><a title="mission" href="mission.php" role="">Mission</a></li>
+              <li><a title="funny" href="funny.php" role="">Fun</a></li>
+               <li><a title="gallery" href="gallery.php" role="">Gallery</a></li>
+                 <li><a title="cotacts" href="contacts.php" role="">Contacts</a></li>
 
         </ul>
 </div>
