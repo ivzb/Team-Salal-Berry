@@ -2,6 +2,20 @@ img {
     max-width: 100%;
 }
 
+.navbar-header{
+    font-size: 2em;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.navbar-header p strong{
+    text-transform: uppercase;
+    margin-left: 100px;
+}
+.navbar-header p span{
+    font-size: 0.4em;
+    vertical-align: top;
+}
 .navbar-inverse{
     background-color: #62be1b;
     background-image:url('../images/green-line2.png');
@@ -10,37 +24,54 @@ img {
     border-color: #fff;
 }
 
+/*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
+според мен менюто е по-добре да е в дясно, а също така като се направи хувър да не стига до горния
+край на браузъра, а да се вижда малко от фона на сайта*/
 #main-nav{
     float: right;
     margin-top: 15px;
 }
 
+/*div#main-nav a:hover{
+    color: #000000;
+    background-color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+}*/
+
 .nav-tabs > li > a{
     color: #FFFFFF;
     font-weight: bold;
+    font-size: 1.2em;
 }
-
-.nav-tabs > li > a{
-	color: #FFFFFF;
-	font-weight: bold;
-}
-
+/*тук слагам картинката като фон, защото не можах да намеря откъде да огранича размера на ли-тата
+по-нататък като го намеря ще го оправя
+падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
 .nav-tabs > li > a:hover{
-     color: #134c29;
+    color: #134c29;
     cursor: default;
     background-color: #fff;
-    border-bottom-color: transparent;
+   /* border-bottom-color: transparent;
     background-image:url('../images/green-line2.png');
     background-repeat: repeat-x;
-    background-position: left bottom;
+    background-position: left bottom;*/
     border-right: none;
     border-left: none;
 }
 
+.nav-tabs > li > a{
+    line-height: 1.04;
+}
+
 .jumbotron{
-    background: #fff;
-    margin-top: 20px;
-    margin-bottom: 0;
+    margin-top: 40px;
+    background-color: #fff;
+}
+
+.jumbotron .container{
+    background-image: url('../images/jumbotron-background.png');
+    background-repeat: no-repeat;
+    background-position: right top;
 }
 
 .jumbotron a{
@@ -48,24 +79,48 @@ img {
 }
 
 .jumbotron h1{
-    float: right;
-    clear: right;
     font-size: 1.8em;
-    text-align: left;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 10px;
+    float: left;
+    clear: left;
 }
 
 .jumbotron p{
+    margin-top: 10px;
+    margin-left: 10px;
     float: left;
     clear: left;
-    margin-top: 10px;
+    width: 380px;
+    height: 130px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    font-size: 1.2em;
 }
 
+.btn-primary{
+    background-color: #62be1b;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #144d29;
+    border: 1px solid #62be1b;
+}
+
+.container .row{
+    margin-top: -80px;
+}
 .col-md-4{
     height: 15%;
+    margin-top: -20px;
 }
 
 .col-md-4 h2{
     background: #62be1b;
+    font-size: 1.6em;
+    font-weight: bold;
     color: #fff;
     padding: 10px;
 }
@@ -79,5 +134,5 @@ img {
 }
 
 .logo{
-    margin-top: 50px;
+    margin-top: 30px;
 }
