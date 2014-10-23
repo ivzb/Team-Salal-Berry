@@ -9,23 +9,20 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-	  <meta name="description" content="<?php echo $description ?>">
-      <meta name="keywords" content="<?php echo $keywords ?>">
-      <meta name="author" content="Salel Berry Team">
-      <link rel="icon" href="images/favicon.png">
-      <title><?php echo $title ?></title>
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <link rel="icon" href="favicon.ico">
+      <title>Salal Berry Team - Тemplate for Bootstrap</title>
       <link href="css/bootstrap.css" rel="stylesheet">
       <link href="css/styles.css" rel="stylesheet">
    </head> 
    <body>
-     
        
       <header>
-
             <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
                <div class="container">
                   <div class="navbar-header">
-                  
+                    <p><strong>green</strong>uni<span>&reg;</span></p>
                   </div>
                  
  <nav class="rows" >
