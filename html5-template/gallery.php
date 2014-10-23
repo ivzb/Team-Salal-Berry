@@ -26,9 +26,9 @@ my_header($title, $description, $keywords);
                <div class="col-md-4">
                   <h2>Heading</h2>
                   	<div class="gallery-img">
-                  		<img src="images/jumbotron-background.png" />
-                  		<img src="images/jumbotron-background.png" />
-                  		<img src="images/jumbotron-background.png" />
+                  		<img src="images/jumbotron-background.png" /> <!-- normal img -->
+                  		<img class="fancybox" src="images/jumbotron-background.png" /> <!-- js gallery image -->
+                  		<img class="fancybox" src="images/jumbotron-background.png" title="image title" /> <!-- js gallery image & title -->
                   	</div>
                   <p>
                      Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
