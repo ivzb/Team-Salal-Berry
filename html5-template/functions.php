@@ -19,10 +19,12 @@
 
    </head> 
    <body>
-            <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-			<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-			<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.pack.min.js"></script>
-			<script type="text/javascript" src="js/fancybox.js"></script>
+            <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+			<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+			<script src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.pack.min.js"></script>
+			<script src="js/fancybox.js"></script>
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+			<script src="js/toggle.js"></script>
 		
       <header>
             <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
