@@ -1,6 +1,8 @@
 $(document).ready(function(){
 
 $(".toggle").click(function(){
-    $(this).parent().find('p').toggle();
+	event.preventDefault();
+	
+    $(this).parent().parent().find('img').slideToggle("medium");
   });
 });
