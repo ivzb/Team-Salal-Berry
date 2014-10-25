@@ -159,6 +159,11 @@ section .container {
     height: 690px;
 }
 
+
+.container .majors .col-md-4 {
+    height: 400px;
+}
+
 .col-md-4{
     height: 15%;
     margin-top: -20px;

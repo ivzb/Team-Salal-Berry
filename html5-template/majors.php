@@ -6,54 +6,71 @@ $keywords = "";
 
 my_header($title, $description, $keywords);
 ?>
-      <section>
-         <div class="jumbotron">
-            <div class="container">
-                <a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
-               <h1>funny</h1>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+<section>
+    <div class="container">
+        <div class="row long">
+            <div class="col-md-6">
+                <h2>Специалности</h2>
+                <p class="indent">
+                    Зеленият университет "Salal Berry" е единственото специализирано висше училище в България, което предлага образование на университетско ниво по три основни направления - архитектурен дизайн, планиране, администриране и тестване на посеви в бизнес сгради.
                 </p>
-               <p>
-                  <a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
-               </p>
+
+                <p class="indent">
+                    Обучението за образователно-квалификационната степен “<span class="important">GREEN PERSON</span>” е присъствено и онлайн. След успешно полагане на
+                    green-изпитът, завършилите получават диплома за зелено образование с професионална квалификация “<span class="important">GREEN OFFICE PRANKSTER</span>”.
+                </p>
             </div>
-         </div>
-      </section>
-      <section>
-         <div class="container">
-            <div class="row">
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
+
+            <div class="col-md-6">
+                <img src="images/speciality_2.jpg" class="right" />
             </div>
-            <hr>
-         </div>
-      </section>
-<?php 
+        </div>
+
+        <div class="row majors">
+            <div class="col-md-4">
+                <h2>Администриране на РедРоузес (RedRoses)</h2>
+                <p>
+                    <img src="images/redroses.jpg" />
+                </p>
+            </div>
+            <div class="col-md-4">
+                <h2>Цветово кодиране на скрити послания с цветни лехи</h2>
+                <p>
+                    <img src="images/promotion.jpg" />
+                </p>
+            </div>
+            <div class="col-md-4">
+                <h2>Хардуер за поддържане на оптимални условия за растеж</h2>
+                <p>
+                    <img src="images/plant.jpg" />
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <h2>Планиране на посевните дейности в офиса</h2>
+                <p>
+                    <img src="images/planting.jpg" />
+                </p>
+            </div>
+            <div class="col-md-4">
+                <h2>Архитектурен дизайн на зелени площи</h2>
+                <p>
+                    <img src="images/architecture_design.jpg" />
+                </p>
+            </div>
+            <div class="col-md-4">
+                <h2>Тестване мекотата на тревните площи в бизнес сграда</h2>
+                <p>
+                    <img src="images/testing.jpg" />
+                </p>
+            </div>
+        </div>
+
+        <hr>
+    </div>
+</section>
+<?php
 my_foother();
 ?>      
