@@ -51,22 +51,9 @@
 /*тук слагам картинката като фон, защото не можах да намеря откъде да огранича размера на ли-тата
 по-нататък като го намеря ще го оправя
 падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
-.nav-tabs > li > a:hover{
-    color: #134c29;
-    cursor: default;
-    background-color: #fff;
-   /* border-bottom-color: transparent;
-    background-image:url('../images/green-line2.png');
-    background-repeat: repeat-x;
-    background-position: left bottom;*/
-    border-right: none;
-    border-left: none;
-}
 
-.nav-tabs > li > a{
-    line-height: 1.04;
-	
-}
+
+
 
 .jumbotron{
     margin-top: 40px;
@@ -179,9 +166,9 @@ section .container {
     height: 400px;
 }
 
+
 .col-md-4{
     height: 15%;
-    margin-top: -20px;
 }
 
 .col-md-4 h2{
@@ -202,6 +189,10 @@ section .container {
 
 .logo{
     margin-top: 30px;
+}
+
+.col-md-6{
+	margin-top: 80px;
 }
 
 a.fancybox img {
@@ -230,7 +221,7 @@ a.fancybox:hover img {
      transform: scale(1.03,1.03);
 }
 
-footer .container{
+footer {
 	padding-top: 15px;
 	text-align: center;
 	background-color: #144d29;
