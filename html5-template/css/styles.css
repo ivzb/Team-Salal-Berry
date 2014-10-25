@@ -145,12 +145,12 @@ section .container {
     margin-top: 150px;
 }
 
-.btn-primary, .btn-default{
+.btn-primary, .col-md-4 .btn-default{
     background-color: #62be1b;
     border: none;
 }
 
-.btn-default{
+.col-md-4 .btn-default{
 	color: #fff;
 	margin-top: 15px;
 }
@@ -232,4 +232,12 @@ a.fancybox:hover img {
     -webkit-transform: scale(1.03,1.03);
      transform: scale(1.03,1.03);
 }
+
+footer .container{
+	padding-top: 15px;
+	text-align: center;
+	background-color: #144d29;
+	color: #fff;
+}
+
 
