@@ -21,10 +21,8 @@
     vertical-align: top;
 }
 .navbar-inverse{
-    /*background-color: #62be1b;*/
-	height: 66px;
-	background-color: transparent;
-    background-image:url('../images/fixed-top.png');
+    background-color: #62be1b;
+    background-image:url('../images/green-line2.png');
     background-repeat: repeat-x;
     background-position: left bottom;
     border-bottom: #fff;
@@ -70,13 +68,14 @@
 	
 }
 
+/*
 .jumbotron{
     margin-top: 40px;
     background-color: #fff;
 }
 
 .jumbotron .container{
-    background-image: url('../images/jumbotron-background-better-color.jpg');
+    /background-image: url('../images/jumbotron-background-better-color.jpg');
     background-repeat: no-repeat;
     background-position: right top;
     margin: 0 auto;
@@ -103,6 +102,38 @@
     overflow:hidden;
     text-overflow:ellipsis;
     font-size: 1.2em;
+}*/
+
+.long {
+    height: 395px;
+}
+
+.right {
+    float: right;
+}
+
+.important {
+    font-weight: bold;
+    color: #62be1b;
+}
+
+.emphasized {
+    font-style: italic;
+    color: #62be1b;
+}
+
+.indent {
+    text-indent: 30px;
+}
+
+.indent::first-letter {
+    font-weight: bold;
+    font-size: 18pt;
+    color: #62be1b;
+}
+
+section .container {
+    margin-top: 150px;
 }
 
 .btn-primary{
@@ -118,6 +149,16 @@
 .container .row{
     margin-top: -80px;
 }
+
+.container .about .col-md-4 {
+    height: 485px;
+}
+
+
+.container .apply .col-md-4 {
+    height: 690px;
+}
+
 .col-md-4{
     height: 15%;
     margin-top: -20px;
@@ -130,10 +171,10 @@
     color: #fff;
     padding: 10px;
 }
-
+/*
 .col-md-4:first-of-type{
     float: right;
-}
+}*/
 
 .nav-tabs {
     border-bottom: 0px solid #ddd;
