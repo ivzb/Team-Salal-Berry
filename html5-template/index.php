@@ -9,14 +9,14 @@ my_header($title, $description, $keywords);
      <section>
          <div class="jumbotron">
             <div class="container">
-                <a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
-               <h1>Mission</h1>
-                <p>
-                    Това е само тест демо. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                </p>
-               <p>
-                  <a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
-               </p>
+				<a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
+				<h1>Mission</h1>
+				<p>
+					Това е само тест демо. Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				</p>
+				<p>
+				<a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
+				</p>
             </div>
          </div>
       </section>
@@ -28,7 +28,7 @@ my_header($title, $description, $keywords);
                   <p>
                      Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
                   </p>
-                   <img src="images/green-uni-terms.png" width="362"  height="363" alt="GreenUni Terms">
+                   <img src="images/green-uni-terms.png" width="362" height="363" alt="GreenUni Terms">
                   <p>
                      <a class="btn btn-default toggle" href="#" role="button">View details &raquo;</a>
                   </p>

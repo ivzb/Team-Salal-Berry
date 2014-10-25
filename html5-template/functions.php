@@ -30,7 +30,9 @@
             <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
                <div class="container">
                   <div class="navbar-header">
-                    <p><strong>green</strong>uni<span>&reg;</span></p>
+						<h1>
+							<strong>green</strong>uni<span>&reg;</span>
+						</h1>
                   </div>
                  
  <nav class="rows" >
