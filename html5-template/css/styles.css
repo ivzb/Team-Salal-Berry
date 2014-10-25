@@ -25,7 +25,7 @@
     background-repeat: repeat-x;
     background-position: left bottom;
     border-bottom: #fff;
-}
+}e 
 
 .navbar-inverse{
     /*background-color: #62be1b;*/
@@ -145,14 +145,23 @@ section .container {
     margin-top: 150px;
 }
 
-.btn-primary{
+.btn-primary, .btn-default{
     background-color: #62be1b;
     border: none;
 }
 
-.btn-primary:hover{
+.btn-default{
+	color: #fff;
+	margin-top: 15px;
+}
+
+.btn-primary:hover, .btn-default:hover{
     background-color: #144d29;
     border: 1px solid #62be1b;
+}
+
+.btn-default:hover{
+	color: #fff;
 }
 
 .container .row{
