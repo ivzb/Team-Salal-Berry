@@ -38,12 +38,29 @@
   <ul class="nav nav-tabs">
         
        
-           <li><a title="news" href="news.php" role="">News</a></li>
-            <li><a title="about" href="about.php" role="">About GreenUni</a></li>
-            <li><a title="mission" href="mission.php" role="">Mission</a></li>
-              <li><a title="funny" href="funny.php" role="">Fun</a></li>
-               <li><a title="gallery" href="gallery.php" role="">Gallery</a></li>
-                 <li><a title="cotacts" href="contacts.php" role="">Contacts</a></li>
+           <li><a title="news" href="news.php" role="">Новини</a></li>
+           <li> 
+
+             <div class="dropdown">
+              <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+                Университетът
+                <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="about.php">За нас</a></li>
+                <li role="presentation" class="divider"></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="apply.php">Кандидатстване</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="hostel.php">Общежития</a></li>
+                <li role="presentation" class="divider"></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="staff.php">Състав</a></li>
+                <li role="presentation"><a role="menuitem" tabindex="-1" href="gallery.php">Галерия</a></li>
+              </ul>
+            </div>
+           </li>
+            <li><a title="mission" href="majors.php" role="">Специалности</a></li>
+              <li><a title="funny" href="initiatives.php" role="">Инициативи</a></li>
+               <li><a title="gallery" href="science.php" role="">Наука</a></li>
+                 <li><a title="cotacts" href="contacts.php" role="">Контакти</a></li>
 
         </ul>
 </div>
