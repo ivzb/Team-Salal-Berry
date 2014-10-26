@@ -226,14 +226,24 @@ section .container {
 	margin-top: 80px;
 }
 
-
-a.fancybox img {
+/*
+ при повече от една снимка в блок-а , смалява снимките ..
+    a.fancybox: img {
 	width: 46%;
 	margin: 6px;
     border: none;
     box-shadow: 0 1px 7px rgba(0,0,0,0.6);
     float: right;
+} */
+
+a.fancybox img{
+	width: 95%;
+	margin: 5px;
+    border: none;
+    box-shadow: 0 1px 7px rgba(0,0,0,0.6);
+    float: right;
 } 
+
 
 a.fancybox:hover img {
     position: relative;
