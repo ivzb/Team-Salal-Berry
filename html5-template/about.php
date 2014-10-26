@@ -46,7 +46,7 @@ my_header($title, $description, $keywords);
                       Подготовка на студентите за изява в условията на висока конкурентост при работа в офис среда и разширяване на обхвата на об​​учението.
                   </p>
                   <p>
-                      <img src="images/working-at-it-department.jpg" />
+                      <img class="fancybox" src="images/working-at-it-department.jpg" />
                   </p>
                   <p>
                      <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
