@@ -30,19 +30,19 @@ my_header($title, $description, $keywords);
             <div class="col-md-4">
                 <h2>Администриране на РедРоузес (RedRoses)</h2>
                 <p>
-                    <img src="images/redroses.jpg" />
+                    <img class="fancybox" src="images/redroses.jpg" />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Цветово кодиране на скрити послания с цветни лехи</h2>
                 <p>
-                    <img src="images/promotion.jpg" />
+                    <img class="fancybox" src="images/promotion.jpg" />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Хардуер за поддържане на оптимални условия за растеж</h2>
                 <p>
-                    <img src="images/plant.jpg" />
+                    <img class="fancybox" src="images/plant.jpg" />
                 </p>
             </div>
         </div>
@@ -51,19 +51,19 @@ my_header($title, $description, $keywords);
             <div class="col-md-4">
                 <h2>Планиране на посевните дейности в офиса</h2>
                 <p>
-                    <img src="images/planting.jpg" />
+                    <img class="fancybox" src="images/planting.jpg" />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Архитектурен дизайн на зелени площи</h2>
                 <p>
-                    <img src="images/architecture_design.jpg" />
+                    <img class="fancybox" src="images/architecture_design.jpg" />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Тестване мекотата на тревните площи в бизнес сграда</h2>
                 <p>
-                    <img src="images/testing.jpg" />
+                    <img class="fancybox" src="images/testing.jpg" />
                 </p>
             </div>
         </div>

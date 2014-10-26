@@ -58,7 +58,7 @@ my_header($title, $description, $keywords);
                       Развитие на вътрешноуниверситетската система за управление качеството на образованието.
                   </p>
                    <p>
-                       <img src="images/education-quality.jpg" />
+                       <img class="fancybox" src="images/education-quality.jpg" />
                    </p>
                   <p>
                      <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -70,7 +70,7 @@ my_header($title, $description, $keywords);
                       Развити​ето на кадровия ​и изследователски потенциал.
                   </p>
                    <p>
-                       <img src="images/progress.png" />
+                       <img class="fancybox" src="images/progress.png" />
                    </p>
                   <p>
                      <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -85,7 +85,7 @@ my_header($title, $description, $keywords);
                          Реализиране на комплекс от дейности по европейска интеграция и международно сътрудничество.
                      </p>
                      <p>
-                         <img src="images/europe-integration.jpg" />
+                         <img class="fancybox" src="images/europe-integration.jpg" />
                      </p>
                      <p>
                          <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -97,7 +97,7 @@ my_header($title, $description, $keywords);
                          Изграждане на високоорганизирана университетска система, гъвкава спрямо външните условия, с модерна материално-техническа и информационна база.
                      </p>
                      <p>
-                         <img src="images/facilities.jpg" />
+                         <img class="fancybox" src="images/facilities.jpg" />
                      </p>
                      <p>
                          <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -109,7 +109,7 @@ my_header($title, $description, $keywords);
                          Екология и техники за развитие и опазване на офис средата.
                      </p>
                      <p>
-                         <img src="images/ecology.jpg" />
+                         <img class="fancybox" src="images/ecology.jpg" />
                      </p>
                      <p>
                          <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
