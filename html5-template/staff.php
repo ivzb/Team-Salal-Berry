@@ -7,51 +7,102 @@ $keywords = "";
 my_header($title, $description, $keywords);
 ?>
       <section>
-         <div class="jumbotron">
-            <div class="container">
-                <a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
-               <h1>funny</h1>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                </p>
-               <p>
-                  <a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
-               </p>
-            </div>
-         </div>
-      </section>
-      <section>
          <div class="container">
-            <div class="row">
+             <div class="row long">
+                 <div class="col-md-6">
+                     <h2>Състав</h2>
+                     <div class="about-us">
+                        <span class="us">НИЕ &#8594;</span> 
+                        <p>- Къде работим?</p>
+                        <p>- В <span class="important"> GreenUni ...</span></p>
+                        <p>- А какво по-точно?</p>
+                        <p>- Честно, баце, не знаем.</p>
+                     </div>
+                 </div>
+
+                 <div class="col-md-6">
+                     <img src="images/us.jpg" class="right" />
+                 </div>
+             </div>
+
+            <div class="row staff">
                <div class="col-md-4">
-                  <h2>Heading</h2>
+                  <h2>Къде можем да бъдем намерени</h2>
                   <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+                     Нашият офис е разположен в <span class="emphasized important">подземната част</span> на GreenUni. В момента сме го пригодили за обитаване - почти. Нямаме много <span class="emphasized important">посетители</span> - понякога идва един <span class="emphasized important">ЕКО плъх</span>.
                   </p>
                   <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
+                      <img src="images/we-are-here.jpg" />
+                  </p>
+                  <p>
+                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
                   </p>
                </div>
                <div class="col-md-4">
-                  <h2>Heading</h2>
+                  <h2>Нашите шефове</h2>
                   <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+                     Всички служители са пряко подчинени на Ректора на GreenUni и имаме много ръководители (зам-ректор, декан, зам-декан, шеф-катедра и други шефове, които не са толкова важни). Нашите ръковорители са  <span class="emphasized important">изключително квалифицирани специалисти</span>.
                   </p>
+                   <p>
+                       <img src="images/screen.jpg" />
+                   </p>
                   <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
+                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
                   </p>
                </div>
                <div class="col-md-4">
-                  <h2>Heading</h2>
+                  <h2>Преподавателски състав</h2>
                   <p>
-                     Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+                     Висококвалифицираният преподаватели състав на GreenUni, всяка година успява да обучи всички записали студенти.
                   </p>
+                   <p>
+                       <img src="images/school.jpg" />
+                   </p>
                   <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
+                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
                   </p>
                </div>
             </div>
-            <hr>
+
+             <div class="row">
+                 <div class="col-md-4">
+                     <h2>Връзка с потребителите</h2>
+                     <p>
+                        Специалистите от отдела са <span class="emphasized important"> изключително усложливи и дружелюбни </span> към потребителите. Те оказват системна помощ и решават текущи проблеми в мрежата на университета. 
+                     <p>
+                         <img src="images/helpdesk.jpg" />
+                     </p>
+                     <p>
+                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                     </p>
+                 </div>
+                 <div class="col-md-4">
+                     <h2>Отдел техническа поддръжка</h2>
+                     <p>
+                         Специалистите, работещи в отдела осигурява техническа поддръжка на компютърната периферия, мрежовия хардуер и софтуер. Предлагат <span class="emphasized important">професионални консултации срещу заплащане</span> или твърд алкохол.
+                     </p>
+                     <p>
+                         <img src="images/hardware-department.jpg" />
+                     </p>
+                     <p>
+                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                     </p>
+                 </div>
+                 <div class="col-md-4">
+                     <h2>Софтуерен отдел</h2>
+                     <p>
+                        Специалистите, работещи в отдела, мислещи за пари и <span class="emphasized important">"fixed a problem that we don't know we have, in a way we don't understand"</span>.
+                     </p>
+                     <p>
+                         <img src="images/soft-department.jpg" />
+                     </p>
+                     <p>
+                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                     </p>
+                 </div>
+             </div>
+
+             <hr>
          </div>
       </section>
 <?php 
