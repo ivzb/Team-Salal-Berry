@@ -8,7 +8,7 @@
 }
 
 .navbar-nav collapsed {
-	float: left;
+	float: left !important;
 	margin: 15px 0 0 0;
 }
 
