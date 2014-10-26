@@ -7,51 +7,27 @@ $keywords = "";
 my_header($title, $description, $keywords);
 ?>
       <section>
-         <div class="jumbotron">
-            <div class="container">
-                <a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
-               <h1>funny</h1>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                </p>
-               <p>
-                  <a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
-               </p>
-            </div>
-         </div>
-      </section>
-      <section>
          <div class="container">
-            <div class="row">
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-            </div>
-            <hr>
+             <div class="row long">
+                 <div class="col-md-6">
+                     <h2>Общежития</h2>
+                     <p class="indent">
+                        Палатков лагер някъде в покрайнините на град София. Всички общежития на <span class="important">GreenUni </span> са разположени на неопределено място, поради оплаквания на околните живущи. Текущото местонахождение може да бъде следено в facebook страницата ни.
+                      </p>
+                      <p class="indent"> 
+                        Общежитията разполагат с общи санитарни възли, обособени кухни и перални помещения. Възможност за разгръщане на 300 палатки и паркоместа за 50 каравани и двойно повече открито пространство за огньове и барбекюта. За палатките и караваните е възможно подсигуряване на ток и вода - зависи от климатичните условия. <span class="important">GreenUni </span> разполага и с безжични мрежи за връзка с Интернет от околните блокове. Молим, тези от вас които отключат мрежа, да я споделят с останалите. 
+                     </p>
+                      <p class="indent">
+                        Спазвайте графика за настаняване. Предварително настаняване не се допуска.  Студенти, които <span class="emphasized important">не са доволни </span>от определените им места, имат право да подадат писмена жалба до Ректора на <span class="important">GreenUni </span>, която ще бъде разгледана в рамките на семестъра от датата на подаване. 
+                     </p>
+                 </div>
+
+                 <div class="col-md-6">
+                     <img src="images/camp.jpg" class="right" />
+                 </div>
+             </div>
+
+<!--              <hr> -->
          </div>
       </section>
 <?php 
