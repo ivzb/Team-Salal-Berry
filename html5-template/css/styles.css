@@ -2,22 +2,49 @@
     max-width: 100%;
 }
 
+.navbar-nav {
+	float: right;
+	margin: 15px 0 0 0;
+}
+
+.navbar-nav collapsed {
+	float: left;
+	margin: 15px 0 0 0;
+}
+
+ul.dropdown-menu li a {
+color:grey !important;
+}
+
 .navbar-header{
     font-size: 2em;
     color: #fff;
+   
 }
 
-.navbar-header h1{
-    margin-top: 10px;
-}
 
-.navbar-header h1 strong{
+.navbar-header h1 {
+    margin-top: 15px;
+}
+.navbar-header h1 a {
+    font-weight:normal !important;
+    font-size: 0.6em;
+    vertical-align: top;
     text-transform: uppercase;
 }
-.navbar-header h1 span{
-    font-size: 0.4em;
-    vertical-align: top;
+.navbar-header h1 strong {
+         font-size: 1em;
 }
+
+nav a {
+    font-weight:bold;
+    color:#fff !important;
+}
+ul.nav a:hover {
+	color:#144d29 !important;
+
+}
+
 
 .navbar-inverse{
     /*background-color: #62be1b;*/
@@ -51,6 +78,11 @@
 /*тук слагам картинката като фон, защото не можах да намеря откъде да огранича размера на ли-тата
 по-нататък като го намеря ще го оправя
 падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
+
+.green {
+background-color:#62be1b !important;
+
+}
 
 
 
@@ -227,4 +259,6 @@ footer {
 	color: #fff;
 }
 
-
+footer p {
+padding: 0 0 15px 0;
+}
