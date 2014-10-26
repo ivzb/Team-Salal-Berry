@@ -16,8 +16,8 @@ my_header($title, $description, $keywords);
                 </p>
 
                 <p class="indent">
-                    Обучението за образователно-квалификационната степен “<span class="important">GREEN PERSON</span>” е присъствено и онлайн. След успешно полагане на
-                    green-изпитът, завършилите получават диплома за зелено образование с професионална квалификация “<span class="important">GREEN OFFICE PRANKSTER</span>”.
+                    Обучението за образователно-квалификационната степен <span class="important">"GREEN PERSON"</span> е присъствено и онлайн. След успешно полагане на
+                    <span class="important">GREEN-EXAM</span>, завършилите получават диплома за зелено образование с професионална квалификация <span class="important">"GREEN OFFICE PRANKSTER"</span>”.
                 </p>
             </div>
 
