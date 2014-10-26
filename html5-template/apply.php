@@ -23,17 +23,17 @@ my_header($title, $description, $keywords);
 
         <div class="row apply">
             <div class="col-md-4">
-                <h2>Диплома за завършен SoftUni</h2>
-                <p>
-                    За да кандидатствате в нашия университет е необходимо да притежавате диплома <span class="important emphasized">ЛИЧНО</span> връчена от <span class="important emphasized">Светлин Наков</span>.
+				<h2>За напреднали</h2>
+				<p>
+                    Ако сте напреднали в озеленяването на участъци може да се явите на изпит без да минавате подготвително ниво. За да се явите на изпит моля направете го от <a href="contacts.php">тук</a>.
                 </p>
-                <p>
-                    <img src="images/nakov-award.jpg" />
-                </p>
-                <p>
+				<p>
+					<img src="images/advanced.jpg" />
+				</p>
+				<p>
                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
                 </p>
-            </div>
+			</div>
             <div class="col-md-4">
                 <h2>Завършен БЕЗПЛАТЕН курс по озеленяване НИВО #0</h2>
                 <p>
@@ -81,6 +81,18 @@ my_header($title, $description, $keywords);
                 </p>
                 <p>
                     <img src="images/hacker.jpg" />
+                </p>
+                <p>
+                    <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                </p>
+            </div>
+			<div class="col-md-4">
+                <h2>Диплома за завършен SoftUni</h2>
+                <p>
+                    За да кандидатствате в нашия университет е необходимо да притежавате диплома <span class="important emphasized">ЛИЧНО</span> връчена от <span class="important emphasized">Светлин Наков</span>.
+                </p>
+                <p>
+                    <img src="images/nakov-award.jpg" />
                 </p>
                 <p>
                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
