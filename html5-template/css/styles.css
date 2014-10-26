@@ -195,13 +195,9 @@ section .container {
 }
 
 
-/*.dropdown-menu {
-	color: #fff;
+.dropdown-menu {
 	background-color: #62be1b; 
 }
-.dropdown-menu:hover{
-	background-color: #62be1b; 
-}*/
 
 .container .row{
 	margin-top: 0px;
