@@ -49,7 +49,7 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse-8">
          <ul class="nav navbar-nav">
-            <li><a title="news" href="index.php" role="menuitem">Новини</a></li>
+            <li><a title="news" href="index.php" role="menu">Новини</a></li>
             <li>
                <div class="dropdown">
                   <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
@@ -67,10 +67,10 @@
                   </ul>
                </div>
             </li>
-            <li><a title="mission" href="majors.php" role="menuitem">Специалности</a></li>
-            <li><a title="funny" href="initiatives.php" role="menuitem">Инициативи</a></li>
-            <li><a title="gallery" href="science.php" role="menuitem">Наука</a></li>
-            <li><a title="cotacts" href="contacts.php" role="menuitem">Контакти</a></li>
+            <li><a title="mission" href="majors.php" role="menu">Специалности</a></li>
+            <li><a title="funny" href="initiatives.php" role="menu">Инициативи</a></li>
+            <li><a title="gallery" href="science.php" role="menu">Наука</a></li>
+            <li><a title="cotacts" href="contacts.php" role="menu">Контакти</a></li>
          </ul>
       </div>
       <!-- /.navbar-collapse -->
