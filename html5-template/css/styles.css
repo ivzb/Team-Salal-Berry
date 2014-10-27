@@ -82,7 +82,7 @@ ul.nav a:hover {
 по-нататък като го намеря ще го оправя
 падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
 
-.jumbotron{
+/*.jumbotron{
     margin-top: 2%;
     background-color: #fff;
 	padding-bottom: 0;
@@ -114,8 +114,10 @@ ul.nav a:hover {
     clear: left;
     width: 32%;
     font-size: 1.2em;
+}*/
+.mainpage{
+	margin-top: 7%;
 }
-
 .long {
     height: 40%;
 }
