@@ -28,7 +28,7 @@ my_header($title, $description, $keywords);
                     За да кандидатствате в нашия университет е необходимо да притежавате диплома <span class="important emphasized">ЛИЧНО</span> връчена от <span class="important emphasized">Светлин Наков</span>.
                 </p>
                 <p>
-                    <img src="images/nakov-award.jpg" />
+                    <img class="fancybox" src="images/nakov-award.jpg" />
                 </p>
                 <p>
                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -40,7 +40,7 @@ my_header($title, $description, $keywords);
                     Ако все още не сте записали БЕЗПЛАТНИЯТ ни курс ниво #0 побързайте да го направите от <a href="contacts.php">тук</a>.
                 </p>
                 <p>
-                    <img src="images/greening-course.jpg" />
+                    <img class="fancybox" src="images/greening-course.jpg" />
                 </p>
                 <p>
                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -55,7 +55,7 @@ my_header($title, $description, $keywords);
                     Изпитните работи са анонимни. Кандидат-студента попълва данните си във facebook страцита ни. Така се гарантира, че проверяването на изпитните работи ще бъде обективно. При доказан опит за измама или нарушаване на анонимността на конкурса, работата на кандидата се анулира, a участието - прекратява.
                 </p>
                 <p>
-                    <img src="images/grass-laptop.jpg" />
+                    <img class="fancybox" src="images/grass-laptop.jpg" />
                 </p>
                 <p>
                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -70,7 +70,7 @@ my_header($title, $description, $keywords);
                      Необходимо е да знаете как се разглобяват всякакъв вид офис техника, портативни устройства, домашна техника.
                 </p>
                 <p>
-                    <img src="images/destinguish.jpg" />
+                    <img class="fancybox" src="images/destinguish.jpg" />
                 </p>
                 <p>
                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
@@ -82,7 +82,7 @@ my_header($title, $description, $keywords);
                      Необходимо е да знаете как се преодоляват дребни и досадни софтуерни пречки.
                 </p>
                 <p>
-                    <img src="images/hacker.jpg" />
+                    <img class="fancybox" src="images/hacker.jpg" />
                 </p>
                 <p>
                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
