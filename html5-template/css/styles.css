@@ -161,8 +161,10 @@ ul.nav a:hover {
 }
  
  .dropdown > button{
-	color: #144d29;
+	color: #FFFFFF;
+	background-color:#62BE1B;
 	font-weight: bold;
+	padding-top: 14px;
  }
  
 .btn-primary:hover, .btn-default:hover,
@@ -173,11 +175,13 @@ ul.nav a:hover {
 .open  > .dropdown-toggle.btn-default {
     background-color: #62be1b;
     border-color: #62be1b;
-    color: #144d29;
+    color: #FFFFFF;
 }
 
 .dropdown-toggle.btn-default:hover{
-    color: #fff;
+    color: #144d29;
+    background-color: #62be1b; 
+    
 }
 
 .dropdown-menu {
