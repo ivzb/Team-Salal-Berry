@@ -4,16 +4,12 @@
 
 .navbar-nav {
 	float: right;
-	margin: 15px 0 0 0;
+	margin: 10px 0 0 0;
 }
 
 .navbar-nav collapsed {
 	float: left !important;
-	margin: 15px 0 0 0;
-}
-
-ul.dropdown-menu li a {
-    background-color: #62be1b !important;
+	margin: 10px 0 0 0;
 }
 
 .navbar-header{
@@ -35,7 +31,7 @@ ul.dropdown-menu li a {
 }
 
 .navbar-header h1 {
-    margin-top: 15px;
+    margin-top: 10px;
 }
 .navbar-header h1 a {
     font-weight:normal !important;
@@ -58,12 +54,15 @@ ul.nav a:hover {
 
 .navbar-inverse{
     /*background-color: #62be1b;*/
-	height: 60px;
 	background-color: transparent;
     background-image:url('../images/fixed-top.png');
     background-repeat: repeat-x;
     background-position: left bottom;
     border-bottom: #fff;
+}
+
+.navbar-fixed-top{
+	background-color: transparent;
 }
 
 /*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
@@ -99,6 +98,7 @@ ul.nav a:hover {
     background-color: #fff;
 	padding-bottom: 0;
 	margin-bottom: 0;
+	position: relative;
 }
 
 .jumbotron .container {
@@ -106,6 +106,7 @@ ul.nav a:hover {
     background-repeat: no-repeat;
     background-position: right top;
     margin: 0 auto;
+	position: relative;
 }
 
 .jumbotron a{
@@ -299,7 +300,7 @@ a.fancybox:hover img {
 
 footer {
   height: 40px;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   left: 0;
   background-color: #144d29;
