@@ -1,8 +1,8 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Добре дошли в GreenUni - зеления университет Salal Berry";
+$description = "Мисията на Зеления университет Salal Berry е да направим хората, които обучаваме, истински професионалисти";
+$keywords = "мисията, зелен университет, кандидастване";
 
 my_header($title, $description, $keywords);
 ?>
@@ -13,7 +13,7 @@ my_header($title, $description, $keywords);
 				<a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
 				<h1>М И С И Я</h1>
 				<p class="indent">
-					Мисията на Зеленият университет "Salal Berry" е <span class="emphasized important">да направим хората, които обучаваме, истински професионалисти</span> в изграждането на екологична офис среда от специалисти в софтуерната индустрия и да им <span class="emphasized important">съдействаме в намирането на начини за изява</span>.
+					Мисията на Зеления университет "Salal Berry" е <span class="emphasized important">да направим хората, които обучаваме, истински професионалисти</span> в изграждането на екологична офис среда от специалисти в софтуерната индустрия и да им <span class="emphasized important">съдействаме в намирането на начини за изява</span>.
 				</p>
 				<p>
 				<a class="btn btn-primary btn-lg" role="button" href="about.php">Виж повече &raquo;</a>
@@ -30,12 +30,12 @@ my_header($title, $description, $keywords);
             <div class="row">
                <div class="col-md-4">
                   <h2>К А Н Д И Д А Т С Т В А Н Е</h2>
-                  <p>
+                 
                       <p>Ние ще ви научим как да направите вашия офис по зелен ...</p>
                       <p>GreenUni: Колеги не прикалявайте със зеленото. Шефът Ви може да не е завършил нашият университет.
                       <p>- Какво - изгониха ви ...</p>
                       <p><span class="emphasized important">GreenUni: Ние Ви предупреждавахме.</span></p>
-                  </p>
+                
                    <img src="images/speciality.jpg" width="362" height="363" alt="GreenUni Terms">
                   <p>
                      <a class="btn btn-default" role="button" href="apply.php">Виж повече &raquo;</a>
@@ -43,12 +43,12 @@ my_header($title, $description, $keywords);
                </div>
                 <div class="col-md-4">
                     <h2>С П Е Ц И А Л Н О С Т И</h2>
-                    <p>
+                    
                       <p>Скучно Ви е ... Направете подарък на колега ...</p>
                       <p>GreenUni: Направихте подарък ... БРАВО <span class="glyphicon glyphicon-thumbs-up"></span></p>
                       <p>- И БОЙ нямаше ... БРАВО  <span class="glyphicon glyphicon-thumbs-up"></span> ... Само превантивно-възпитателна дейност, извършена с голяма динамика. OOO ....  <span class="glyphicon glyphicon-thumbs-down"></span></p>
                       <p><span class="emphasized important">GreenUni: Ние Ви предупреждавахме.</span></p>
-                    </p>
+                   
                     <br>
                     <img src="images/salal-berry-team.png" width="362"  height="363" alt="GreenUni vision">
                     <p>
