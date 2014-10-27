@@ -19,12 +19,10 @@ ul.dropdown-menu li a {
 .navbar-header{
     font-size: 2em;
     color: #fff;
-   
 }
 
 .about-us {
    font-size: 20pt;
-    
 }
 
 .about-us .us {
@@ -58,9 +56,9 @@ ul.nav a:hover {
 
 }
 
-
 .navbar-inverse{
     /*background-color: #62be1b;*/
+	height: 60px;
 	background-color: transparent;
     background-image:url('../images/fixed-top.png');
     background-repeat: repeat-x;
@@ -93,12 +91,8 @@ ul.nav a:hover {
 падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
 
 .green {
-background-color:#62be1b !important;
-
+	background-color:#62be1b !important;
 }
-
-
-
 
 .jumbotron{
     margin-top: 40px;
@@ -178,43 +172,32 @@ section .container {
     border: none;
 }
 
-.col-md-4 .btn-default {
-    background-color: #62be1b;
-    border: 1px solid #62be1b;
-}
-
 .col-md-4 .btn-default{
+	background-color: #62be1b;
+	border: 1px solid #62be1b;
 	color: #fff;
 	margin-top: 15px;
 }
-
-.btn-default {
-    background-color: #62be1b;
-    border-color: #62be1b;
-    color: #ffffff;
-    font-weight: bold;
-    padding-top:14px;
- }
  
- .btn-default:hover {
+.btn-primary:hover, .btn-default:hover,
+.btn-default:focus, .btn-default:active {
+    background-color: #144d29;
+    border: 1px solid #62be1b;
+  }
+.open  > .dropdown-toggle.btn-default {
     background-color: #62be1b;
     border-color: #62be1b;
     color: #144d29;
-  }
-   .btn-default:focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
-    background-color: #62be1b;
-    border-color: #62be1b;
-    color: #144d29;
-  }
+}
+
+.dropdown-toggle.btn-default:hover{
+    color: #fff;
+}
 
 .dropdown-menu {
     background-color: #62be1b; 
 }
 
-
-.btn-default:hover{
-	color: #fff;
-}
 
 .container .row{
 	margin-top: -150px;
@@ -315,12 +298,22 @@ a.fancybox:hover img {
 }
 
 footer {
-	padding-top: 15px;
-	text-align: center;
-	background-color: #144d29;
+  height: 40px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: #144d29;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+}
+
+.text-muted {
+	padding-top: 10px;
 	color: #fff;
 }
 
-footer p {
-padding: 0 0 15px 0;
+.text-muted  a{
+  color: #fff;
+  margin-left: 10px;
 }
