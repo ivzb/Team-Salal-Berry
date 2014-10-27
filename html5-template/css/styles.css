@@ -314,6 +314,18 @@ footer {
 	color: red;
   }
   
+    .navbar-inverse{
+    /*background-color: #62be1b;*/
+	background-color: transparent;
+    background-image:url('../images/fixed-top-107px.png');
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    border-bottom: #fff;
+	}
+	
+  	.navbar-header h1 {
+		margin-top: 0;
+	}
 }
 
 @media all and (max-width: 768px) and (min-width: 640px) {
@@ -321,7 +333,19 @@ footer {
     margin-top: 8%;
 	color: pink;
   }
-  
+  .navbar-inverse{
+    /*background-color: #62be1b;*/
+	background-color: transparent;
+    background-image:url('../images/fixed-top-92px.png');
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    border-bottom: #fff;
+	}
+	
+	.navbar-header h1 {
+    margin-top: 2.5%;
+
+}
 }
 
 @media all and (max-width: 640px) and (min-width: 480x) {
