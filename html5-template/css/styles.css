@@ -61,10 +61,6 @@ ul.nav a:hover {
     border-bottom: #fff;
 }
 
-.navbar-fixed-top{
-	background-color: transparent;
-}
-
 /*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
 според мен менюто е по-добре да е в дясно, а също така като се направи хувър да не стига до горния
 край на браузъра, а да се вижда малко от фона на сайта*/
@@ -175,6 +171,11 @@ section .container {
 	color: #fff;
 	margin-top: 15px;
 }
+ 
+ .dropdown > button{
+	color: #144d29;
+	font-weight: bold;
+ }
  
 .btn-primary:hover, .btn-default:hover,
 .btn-default:focus, .btn-default:active {
