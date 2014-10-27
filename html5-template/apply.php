@@ -6,6 +6,22 @@ $keywords = "";
 
 my_header($title, $description, $keywords);
 ?>
+<!-- Modal -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <img  src="images/are-you-sure.jpg" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Не</button>
+        <button type="button" class="btn btn-primary">Да</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- end Modal -->
+
 <section>
     <div class="container">
         <div class="row long">
@@ -33,7 +49,11 @@ my_header($title, $description, $keywords);
             <div class="col-md-4">
                 <h2>Завършен БЕЗПЛАТЕН курс по озеленяване НИВО #0</h2>
                 <p>
-                    Ако все още не сте записали БЕЗПЛАТНИЯТ ни курс ниво #0 побързайте да го направите от <a href="contacts.php">тук</a>.
+                    Ако все още не сте записали БЕЗПЛАТНИЯТ ни курс ниво #0 побързайте да го направите от 
+                    <!-- Button trigger modal -->
+                    <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+                      тук
+                    </button>
                 </p>
                 <p>
                     <img class="fancybox" src="images/greening-course.jpg" />
@@ -75,8 +95,10 @@ my_header($title, $description, $keywords);
         </div>
 
         <hr>
+
     </div>
 </section>
+
 <?php
 my_foother();
 ?>      
