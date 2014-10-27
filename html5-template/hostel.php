@@ -1,8 +1,8 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Welcome to палатковия лагер";
+$description = "Еко общежития с почти нула процента замърсяване на околната среда";
+$keywords = "палатка, общежитие, настаняване, тиган, спане, криво, ";
 
 my_header($title, $description, $keywords);
 ?>
