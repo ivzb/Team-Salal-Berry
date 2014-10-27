@@ -157,7 +157,7 @@ ul.nav a:hover {
 	background-color: #62be1b;
 	border: 1px solid #62be1b;
 	color: #fff;
-	margin-top: 15px;
+	margin-top: 2%;
 }
  
  .dropdown > button{
@@ -185,34 +185,33 @@ ul.nav a:hover {
 }
 
 
-
-
 .container .about .col-md-4 {
-    height: 485px;
+    height: 40%;
 }
 
 .container .staff .col-md-4 {
-    height: 685px;
+    height: 68.5%;
 }
 
 .container .apply .col-md-4 {
-    height: 690px;
+    height: 69%;
 }
 
+/*
 .container .science1 .col-md-4 {
-    height: 350px;
+    height: 35%;
 }
 
 .container .science2 .col-md-4 {
-    height: 600px;
+    height: 60%;
 }
 
 .container .science3 .col-md-4 {
-    height: 490px;
+    height: 25%;
 }
 
 .container .science4 .col-md-4 {
-    height: 350px;
+    height: 50%;
 }
 .container .science5 .col-md-4 {
     height: 730px;
@@ -229,14 +228,9 @@ ul.nav a:hover {
 .container .science8 .col-md-4 {
     height: 670px;
 }
-
+*/
 .container .majors .col-md-4 {
     height: 400px;
-}
-
-
-.col-md-4{
-    height: 15%;
 }
 
 .col-md-4 h2{
@@ -244,7 +238,7 @@ ul.nav a:hover {
     font-size: 1.4em;
     font-weight: bold;
     color: #fff;
-    padding: 10px;
+    padding: 4%;
 }
 
 /*
@@ -257,11 +251,11 @@ ul.nav a:hover {
 }
 
 .logo{
-    margin-top: 30px;
+    margin-top: 7%;
 }
 
 .col-md-6{
-	margin-top: 80px;
+	margin-top: 7%;
 }
 
 a.fancybox img {
@@ -282,7 +276,7 @@ a.fancybox:hover img {
 }
 
 footer {
-  height: 40px;
+  height: 5%;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -299,5 +293,5 @@ footer {
 
 .text-muted  a{
   color: #fff;
-  margin-left: 10px;
+  margin-left: 1%;
 }

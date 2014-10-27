@@ -108,11 +108,12 @@ my_header($title, $description, $keywords);
                      </p>
                  </div>
                  <div class="col-md-4">
-                     <h2>Открития за света</h2>
+                    <h2>Как да счупим Internet - а</h2>
                      <p>
-                         <img src="images/discovery.jpg" />
+                         <img src="images/boss-allegation.jpg" />
                      </p>
                  </div>
+				 </div>
 
                <div class="row science4">
                  <div class="col-md-4">
@@ -133,6 +134,7 @@ my_header($title, $description, $keywords);
                          <img src="images/grass.jpg" />
                      </p>
                  </div>
+				 </div>
 
                <div class="row science8">
                  <div class="col-md-4">
@@ -153,6 +155,7 @@ my_header($title, $description, $keywords);
                          <img src="images/it-profesionalist.jpg" />
                      </p>
                  </div>
+				 </div>
 
                  <div class="row science3">
                  <div class="col-md-4">
@@ -208,15 +211,7 @@ my_header($title, $description, $keywords);
                          <img src="images/boss-crap.jpg" />
                      </p>
                  </div>
-                 <div class="col-md-4">
-                    <h2>Как да счупим Internet - а</h2>
-                     <p>
-                         <img src="images/boss-allegation.jpg" />
-                     </p>
-                 </div>
              </div>
-
-
              <hr>
          </div>
       </section>
