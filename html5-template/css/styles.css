@@ -135,22 +135,17 @@ ul.nav a:hover {
 }
 .big {
     font-weight: bold;
-    color: #62be1b;
-    font-size: 18pt;
+    font-size: 1.7em;
 }
 
 .indent {
-    text-indent: 30px;
+    text-indent: 4%;
 }
 
 .indent::first-letter {
     font-weight: bold;
-    font-size: 18pt;
+    font-size: 1.7em;
     color: #62be1b;
-}
-
-section .container {
-    margin-top: 150px;
 }
 
 .btn-primary{
@@ -190,9 +185,7 @@ section .container {
 }
 
 
-.container .row{
-	margin-top: -150px;
-}
+
 
 .container .about .col-md-4 {
     height: 485px;
