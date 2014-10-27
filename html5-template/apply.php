@@ -11,11 +11,11 @@ my_header($title, $description, $keywords);
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-body">
-        <img  src="images/are-you-sure.jpg" />
+        <img class="are-you-sure" src="images/are-you-sure1.jpg" />
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">Не</button>
-        <button type="button" class="btn btn-primary">Да</button>
+        <button type="button" class="btn btn-primary i-am-sure">Да</button>
       </div>
     </div>
   </div>

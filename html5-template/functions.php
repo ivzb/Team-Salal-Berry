@@ -22,6 +22,7 @@
 	  <script src="js/fancybox.js"></script>
 	  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	  <script src="js/toggle.js"></script>
+	  <script src="js/are-you-sure.js"></script>
    </head> 
    <body>
           
