@@ -9,10 +9,11 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="description" content="">
-      <meta name="author" content="">
+      <meta name="description" content="<?php echo $description ?>">
+      <meta name="keywords" content="<?php echo $keywords ?>">
+      <meta name="author" content="Salal Berry Team">
       <link rel="icon" href="images/favicon.png">
-      <title>Salal Berry Team - GreenUni Project</title>
+      <title><?php echo $title ?></title>
       <link href="css/bootstrap.css" rel="stylesheet">
       <link href="css/styles.css" rel="stylesheet">
       <link rel="stylesheet" type="text/css" media="screen" href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css" />
