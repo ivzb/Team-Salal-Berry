@@ -61,60 +61,12 @@ ul.nav a:hover {
     border-bottom: #fff;
 }
 
-/*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
-според мен менюто е по-добре да е в дясно, а също така като се направи хувър да не стига до горния
-край на браузъра, а да се вижда малко от фона на сайта*/
-
-
-/*div#main-nav a:hover{
-    color: #000000;
-    background-color: #FFFFFF;
-    text-decoration: none;
-    font-weight: bold;
-}*/
-
 .nav-tabs > li > a{
     color: #FFFFFF;
     font-weight: bold;
     font-size: 1.2em;
 }
-/*тук слагам картинката като фон, защото не можах да намеря откъде да огранича размера на ли-тата
-по-нататък като го намеря ще го оправя
-падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
 
-/*.jumbotron{
-    margin-top: 2%;
-    background-color: #fff;
-	padding-bottom: 0;
-	margin-bottom: 0;
-}
-
-.jumbotron .container {
-    background-image: url('../images/jumbotron-background-better-color.jpg');
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin: 0 auto;
-}
-
-.jumbotron a{
-    float: left;
-}
-
-.jumbotron h1{
-    font-size: 1.8em;
-    font-weight: bold;
-    margin-top: 2%;
-    float: left;
-    clear: left;
-}
-
-.jumbotron p{
-    margin-top: 0.3%;
-    float: left;
-    clear: left;
-    width: 32%;
-    font-size: 1.2em;
-}*/
 body > section:first-of-type{
 	margin-top: 1%;
 }
@@ -209,38 +161,6 @@ body > section:first-of-type{
     height: 69%;
 }
 
-/*
-.container .science1 .col-md-4 {
-    height: 35%;
-}
-
-.container .science2 .col-md-4 {
-    height: 60%;
-}
-
-.container .science3 .col-md-4 {
-    height: 25%;
-}
-
-.container .science4 .col-md-4 {
-    height: 50%;
-}
-.container .science5 .col-md-4 {
-    height: 730px;
-}
-
-.container .science6 .col-md-4 {
-    height: 360px;
-}
-
-.container .science7 .col-md-4 {
-    height: 540px;
-}
-
-.container .science8 .col-md-4 {
-    height: 670px;
-}
-*/
 .container .majors .col-md-4 {
     height: 400px;
 }
@@ -252,11 +172,6 @@ body > section:first-of-type{
     color: #fff;
     padding: 4%;
 }
-
-/*
-.col-md-4:first-of-type{
-    float: right;
-}*/
 
 .nav-tabs {
     border-bottom: 0px solid #ddd;
@@ -311,7 +226,6 @@ footer {
 @media all and (max-width: 960px) and (min-width: 768px) {
   body>section:first-of-type{
     margin-top: 8%;
-	color: red;
   }
   
     .navbar-inverse{
@@ -331,7 +245,6 @@ footer {
 @media all and (max-width: 768px) and (min-width: 640px) {
   body>section:first-of-type{
     margin-top: 8%;
-	color: pink;
   }
   .navbar-inverse{
     /*background-color: #62be1b;*/
@@ -345,25 +258,7 @@ footer {
 	.navbar-header h1 {
     margin-top: 2.5%;
 
-}
-}
-
-/* ne rabotqt
-
-@media all and (max-width: 640px) and (min-width: 480x) {
-	body>section:first-of-type{
-		margin-top: 5%;
-		color: green;
-  }
-   .navbar-inverse{
-    background-color: #62be1b;
-    border-bottom: 2px solid #144d29;
 	}
 }
 
-@media all and (max-width: 320x) {
-	body>section:first-of-type{
-		margin-top: 12%;
-		color: blue;
-  }
-}*/
+
