@@ -7,8 +7,9 @@ $keywords = "";
 my_header($title, $description, $keywords);
 ?>
       <section>
-         <div class="jumbotron">
             <div class="container">
+			<div class="row mainpage">
+			<div class="col-md-12">
                 <a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
                <h1>contacts</h1>
                 <p>
@@ -18,6 +19,7 @@ my_header($title, $description, $keywords);
                   <a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
                </p>
             </div>
+			</div>
          </div>
       </section>
       <section>

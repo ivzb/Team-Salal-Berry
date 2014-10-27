@@ -115,8 +115,12 @@ ul.nav a:hover {
     width: 32%;
     font-size: 1.2em;
 }*/
+body > section:first-of-type{
+	margin-top: 1%;
+}
+
 .mainpage{
-	margin-top: 7%;
+	margin-top: 5%;
 }
 .long {
     height: 40%;
@@ -302,4 +306,34 @@ footer {
 .text-muted  a{
   color: #fff;
   margin-left: 1%;
+}
+
+@media all and (max-width: 960px) and (min-width: 768px) {
+  body>section:first-of-type{
+    margin-top: 8%;
+	color: red;
+  }
+  
+}
+
+@media all and (max-width: 768px) and (min-width: 640px) {
+  body>section:first-of-type{
+    margin-top: 8%;
+	color: pink;
+  }
+  
+}
+
+@media all and (max-width: 640px) and (min-width: 480x) {
+	body>section:first-of-type{
+		margin-top: 12%;
+		color: green;
+  }
+}
+
+@media all and (max-width: 6480px) and (min-width: 320x) {
+	body>section:first-of-type{
+		margin-top: 18%;
+		color: blue;
+  }
 }
