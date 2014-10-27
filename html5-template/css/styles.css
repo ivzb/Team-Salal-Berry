@@ -17,14 +17,14 @@
     color: #fff;
 }
 
-/*.about-us {
+.about-us {
    font-size: 20pt;
 }
 
 .about-us .us {
     font-size: 80pt;
     color: #62be1b;
-}*/
+}
 
 .about-us p {
 }
@@ -331,7 +331,7 @@ footer {
   }
 }
 
-@media all and (max-width: 6480px) and (min-width: 320x) {
+@media all and (min-width: 320x) {
 	body>section:first-of-type{
 		margin-top: 18%;
 		color: blue;
