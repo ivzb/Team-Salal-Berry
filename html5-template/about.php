@@ -1,8 +1,8 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Нашата мисия | GreenUni";
+$description = "Зеленият университет Salal Berry има за свое призвание разпространяването на знания, извършването на фундаментални и приложни научни изследвания";
+$keywords = "разпространяване на знания, зелен университет, научни изследвания";
 
 my_header($title, $description, $keywords);
 ?>
@@ -21,7 +21,7 @@ my_header($title, $description, $keywords);
                  </div>
 
                  <div class="col-md-6">
-                     <img src="images/about-us.png" class="right" />
+                     <img src="images/about-us.png" class="right" alt="" />
                  </div>
              </div>
 
@@ -32,7 +32,7 @@ my_header($title, $description, $keywords);
                       Подготовка на студентите за изява в условията на висока конкурентост при работа в офис среда и разширяване на обхвата на об​​учението.
                   </p>
                   <p>
-                      <img class="fancybox" src="images/working-at-it-department.jpg" />
+                      <img class="fancybox" src="images/working-at-it-department.jpg" alt="" />
                   </p>
                </div>
                <div class="col-md-4">
@@ -41,7 +41,7 @@ my_header($title, $description, $keywords);
                       Развитие на вътрешноуниверситетската система за управление качеството на образованието.
                   </p>
                    <p>
-                       <img class="fancybox" src="images/education-quality.jpg" />
+                       <img class="fancybox" src="images/education-quality.jpg" alt="" />
                    </p>
                </div>
                <div class="col-md-4">
@@ -50,7 +50,7 @@ my_header($title, $description, $keywords);
                       Развити​ето на кадровия ​и изследователски потенциал.
                   </p>
                    <p>
-                       <img class="fancybox" src="images/progress.png" />
+                       <img class="fancybox" src="images/progress.png" alt="" />
                    </p>
                </div>
             </div>
@@ -62,7 +62,7 @@ my_header($title, $description, $keywords);
                          Реализиране на комплекс от дейности по европейска интеграция и международно сътрудничество.
                      </p>
                      <p>
-                         <img class="fancybox" src="images/europe-integration.jpg" />
+                         <img class="fancybox" src="images/europe-integration.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
@@ -71,7 +71,7 @@ my_header($title, $description, $keywords);
                          Изграждане на високоорганизирана университетска система, гъвкава спрямо външните условия, с модерна материално-техническа и информационна база.
                      </p>
                      <p>
-                         <img class="fancybox" src="images/facilities.jpg" />
+                         <img class="fancybox" src="images/facilities.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
@@ -80,7 +80,7 @@ my_header($title, $description, $keywords);
                          Екология и техники за развитие и опазване на офис средата.
                      </p>
                      <p>
-                         <img class="fancybox" src="images/ecology.jpg" />
+                         <img class="fancybox" src="images/ecology.jpg" alt="" />
                      </p>
                  </div>
              </div>
