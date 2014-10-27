@@ -87,12 +87,10 @@
 
 	function my_foother(){
 ?>		
-      <footer>
-         <div class="containera">
-            <p>
-               &copy; Salal Berry Team 2014
-            </p>
-         </div>
+		<footer>
+			<div class="container">
+				<p class="text-muted">&copy; Salal Berry Team 2014<a href="http://softuni.bg">SoftUni.bg</a></p>
+			</div>
       </footer>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       <script src="js/bootstrap.min.js"></script>
