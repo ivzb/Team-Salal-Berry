@@ -4,12 +4,12 @@
 
 .navbar-nav {
 	float: right;
-	margin: 10px 0 0 0;
+	margin: 1% 0 0 0;
 }
 
 .navbar-nav collapsed {
 	float: left !important;
-	margin: 10px 0 0 0;
+	margin: 1% 0 0 0;
 }
 
 .navbar-header{
@@ -17,21 +17,21 @@
     color: #fff;
 }
 
-.about-us {
+/*.about-us {
    font-size: 20pt;
 }
 
 .about-us .us {
     font-size: 80pt;
     color: #62be1b;
-}
+}*/
 
 .about-us p {
-    
 }
 
 .navbar-header h1 {
-    margin-top: 10px;
+    margin-top: 6.5%;
+
 }
 .navbar-header h1 a {
     font-weight:normal !important;
@@ -40,7 +40,7 @@
     text-transform: uppercase;
 }
 .navbar-header h1 strong {
-         font-size: 1em;
+    font-size: 1em;
 }
 
 nav a {
@@ -64,10 +64,7 @@ ul.nav a:hover {
 /*добавям разстояние отгоре, за да диша дизайна, това чупи някои неща надолу
 според мен менюто е по-добре да е в дясно, а също така като се направи хувър да не стига до горния
 край на браузъра, а да се вижда малко от фона на сайта*/
-#main-nav{
-    float: right;
-    margin-top: 15px;
-}
+
 
 /*div#main-nav a:hover{
     color: #000000;
@@ -86,11 +83,10 @@ ul.nav a:hover {
 падинга, който добавям отгоре, измества всичко надолу и съответно ми се скрива картинката при хувър*/
 
 .jumbotron{
-    margin-top: 40px;
+    margin-top: 2%;
     background-color: #fff;
 	padding-bottom: 0;
 	margin-bottom: 0;
-	position: relative;
 }
 
 .jumbotron .container {
@@ -98,7 +94,6 @@ ul.nav a:hover {
     background-repeat: no-repeat;
     background-position: right top;
     margin: 0 auto;
-	position: relative;
 }
 
 .jumbotron a{
@@ -108,23 +103,21 @@ ul.nav a:hover {
 .jumbotron h1{
     font-size: 1.8em;
     font-weight: bold;
-    margin-top: 30px;
+    margin-top: 2%;
     float: left;
     clear: left;
 }
 
 .jumbotron p{
-    margin-top: 10px;
+    margin-top: 0.3%;
     float: left;
     clear: left;
-    width: 380px;
-    overflow:hidden;
-    text-overflow:ellipsis;
+    width: 32%;
     font-size: 1.2em;
 }
 
 .long {
-    height: 395px;
+    height: 40%;
 }
 
 .right {
