@@ -32,10 +32,7 @@ my_header($title, $description, $keywords);
                      Нашият офис е разположен в <span class="emphasized important">подземната част</span> на GreenUni. В момента сме го пригодили за обитаване - почти. Нямаме много <span class="emphasized important">посетители</span> - понякога идва един <span class="emphasized important">ЕКО плъх</span>.
                   </p>
                   <p>
-                      <img src="images/we-are-here.jpg" />
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                      <img class="fancybox" src="images/we-are-here.jpg" />
                   </p>
                </div>
                <div class="col-md-4">
@@ -44,11 +41,8 @@ my_header($title, $description, $keywords);
                      Всички служители са пряко подчинени на Ректора на GreenUni и имаме много ръководители (зам-ректор, декан, зам-декан, шеф-катедра и други шефове, които не са толкова важни). Нашите ръковорители са  <span class="emphasized important">изключително квалифицирани специалисти</span>.
                   </p>
                    <p>
-                       <img src="images/screen.jpg" />
+                       <img class="fancybox" src="images/screen.jpg" />
                    </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                  </p>
                </div>
                <div class="col-md-4">
                   <h2>Преподавателски състав</h2>
@@ -56,11 +50,8 @@ my_header($title, $description, $keywords);
                      Висококвалифицираният преподаватели състав на GreenUni, всяка година успява да обучи всички записали студенти.
                   </p>
                    <p>
-                       <img src="images/school.jpg" />
+                       <img class="fancybox" src="images/school.jpg" />
                    </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                  </p>
                </div>
             </div>
 
@@ -70,10 +61,7 @@ my_header($title, $description, $keywords);
                      <p>
                         Специалистите от отдела са <span class="emphasized important"> изключително усложливи и дружелюбни </span> към потребителите. Те оказват системна помощ и решават текущи проблеми в мрежата на университета. 
                      <p>
-                         <img src="images/helpdesk.jpg" />
-                     </p>
-                     <p>
-                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                         <img class="fancybox" src="images/helpdesk.jpg" />
                      </p>
                  </div>
                  <div class="col-md-4">
@@ -82,10 +70,7 @@ my_header($title, $description, $keywords);
                          Специалистите, работещи в отдела осигурява техническа поддръжка на компютърната периферия, мрежовия хардуер и софтуер. Предлагат <span class="emphasized important">професионални консултации срещу заплащане</span> или твърд алкохол.
                      </p>
                      <p>
-                         <img src="images/hardware-department.jpg" />
-                     </p>
-                     <p>
-                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                         <img class="fancybox" src="images/hardware-department.jpg" />
                      </p>
                  </div>
                  <div class="col-md-4">
@@ -94,10 +79,7 @@ my_header($title, $description, $keywords);
                         Специалистите, работещи в отдела, мислещи за пари и <span class="emphasized important">"fixed a problem that we don't know we have, in a way we don't understand"</span>.
                      </p>
                      <p>
-                         <img src="images/soft-department.jpg" />
-                     </p>
-                     <p>
-                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                         <img class="fancybox" src="images/soft-department.jpg" />
                      </p>
                  </div>
              </div>

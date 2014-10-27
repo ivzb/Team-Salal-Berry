@@ -23,31 +23,21 @@ my_header($title, $description, $keywords);
             <div class="row about">
                <div class="col-md-4">
                   <h2>Да рециклираме старите машини</h2>
-
                   <p>
-                       <img src="images/eco.jpg" />
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                       <img class="fancybox" class="fancybox" src="images/eco.jpg" />
                   </p>
                </div>
                <div class="col-md-4">
                   <h2>Да спасим клавиатурите от завършилите наши студенти</h2>
                    <p>
-                       <img src="images/keyboard.jpg" />
+                       <img class="fancybox" src="images/keyboard.jpg" />
                    </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                  </p>
                </div>
                <div class="col-md-4">
                   <h2>Изнеси се от общежитие - спаси хлебарка</h2>
                    <p>
-                       <img src="images/bug.jpg" />
+                       <img class="fancybox" src="images/bug.jpg" />
                    </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                  </p>
                </div>
             </div>
 
@@ -55,10 +45,7 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>Да бъдем екип</h2>
                      <p>
-                         <img src="images/teamwork.jpg" />
-                     </p>
-                     <p>
-                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                         <img class="fancybox" src="images/teamwork.jpg" />
                      </p>
                  </div>
                  <div class="col-md-4">
@@ -72,18 +59,12 @@ my_header($title, $description, $keywords);
                         <p>- 1000.</p>
                         <p>- Благодаря! Семинарът завърши.</p>
                      </p>
-                     <p>
-                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                     </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Да изчистим офиса за 1 ден</h2>
                      <p>
-                         <img src="images/harmony.jpg" />
-                        <img src="images/harmony2.jpg" />
-                     </p>
-                     <p>
-                         <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
+                         <img class="fancybox" src="images/harmony.jpg" />
+                        <img class="fancybox" src="images/harmony2.jpg" />
                      </p>
                  </div>
              </div>

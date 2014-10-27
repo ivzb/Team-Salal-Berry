@@ -15,7 +15,6 @@ my_header($title, $description, $keywords);
                     Необходими условия за кандидатстване в нашия университет.
                 </p>
             </div>
-
             <div class="col-md-6">
                 <img src="images/apply.jpg" class="right" />
             </div>
@@ -30,9 +29,6 @@ my_header($title, $description, $keywords);
                 <p>
                     <img class="fancybox" src="images/nakov-award.jpg" />
                 </p>
-                <p>
-                    <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                </p>
             </div>
             <div class="col-md-4">
                 <h2>Завършен БЕЗПЛАТЕН курс по озеленяване НИВО #0</h2>
@@ -41,9 +37,6 @@ my_header($title, $description, $keywords);
                 </p>
                 <p>
                     <img class="fancybox" src="images/greening-course.jpg" />
-                </p>
-                <p>
-                    <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
                 </p>
             </div>
             <div class="col-md-4">
@@ -57,9 +50,6 @@ my_header($title, $description, $keywords);
                 <p>
                     <img class="fancybox" src="images/grass-laptop.jpg" />
                 </p>
-                <p>
-                    <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                </p>
             </div>
         </div>
 
@@ -72,9 +62,6 @@ my_header($title, $description, $keywords);
                 <p>
                     <img class="fancybox" src="images/destinguish.jpg" />
                 </p>
-                <p>
-                    <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
-                </p>
             </div>
             <div class="col-md-4">
                 <h2>Софтуерни компетенции</h2>
@@ -83,9 +70,6 @@ my_header($title, $description, $keywords);
                 </p>
                 <p>
                     <img class="fancybox" src="images/hacker.jpg" />
-                </p>
-                <p>
-                    <a class="btn btn-default" href="#" role="button">Виж повече &raquo;</a>
                 </p>
             </div>
         </div>

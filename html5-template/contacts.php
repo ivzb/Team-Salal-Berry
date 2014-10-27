@@ -7,53 +7,24 @@ $keywords = "";
 my_header($title, $description, $keywords);
 ?>
       <section>
-            <div class="container">
-			<div class="row mainpage">
-			<div class="col-md-12">
-                <a  href="/"> <img class="logo" src="images/green-uni.png" width="300" height="164" alt="Team Logo"></a>
-               <h1>contacts</h1>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                </p>
-               <p>
-                  <a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a>
-               </p>
-            </div>
-			</div>
-         </div>
-      </section>
-      <section>
          <div class="container">
-            <div class="row">
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-               <div class="col-md-4">
-                  <h2>Heading</h2>
-                  <p>
-                     Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-                  </p>
-                  <p>
-                     <a class="btn btn-default" href="#" role="button">View details &raquo;</a>
-                  </p>
-               </div>
-            </div>
-            <hr>
+             <div class="row long">
+                 <div class="col-md-6">
+                     <h2>Контакти</h2>
+                     <p class="indent">
+                        Адресът на мейлинг листа е  <span class="emphasized important"> info МАЙМУНСКО 'а' green-uni.com [вместо "маймунско а" напишете @ :)]</span>. За да се запишете в него изпратете празен e-mail до <span class="emphasized important">  baceto МАЙМУНСКО 'а' green-uni.com</span>. Администраторът на листа <span class="emphasized important">[демек аз]</span> си запазва правото да изключва и да водя борба срещу абонатите неспазващи контекста на листа, спамещи с глупости и прочее.
+                      </p>
+                      <p class="indent">
+                        Координатор <span class="emphasized important">“Прием на нови студенти” &#8594;</span>
+                     </p>
+                 </div>
+
+                 <div class="col-md-6">
+                     <img src="images/morpheus.jpg" class="right" />
+                 </div>
+             </div>
+
+<!--              <hr> -->
          </div>
       </section>
 <?php 
