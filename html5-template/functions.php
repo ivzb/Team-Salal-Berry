@@ -11,8 +11,9 @@
       <meta name="author" content="Salal Berry Team">
       <link rel="icon" href="images/favicon.png">
       <title><?php echo $title ?></title>
-      <link href="css/bootstrap.css" rel="stylesheet">
-      <link href="css/styles.css" rel="stylesheet">
+      <link href="css/bootstrap.css" rel="stylesheet" />
+      <link href="css/styles.css" rel="stylesheet" />
+      <link href="css/fancybox.css" rel="stylesheet" />
       <link rel="stylesheet" type="text/css" media="screen" href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css" />
   	  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
    	  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
