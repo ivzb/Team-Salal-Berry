@@ -46,7 +46,7 @@
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse-8">
          <ul class="nav navbar-nav">
-            <li><a title="news" href="index.php" role="button">Новини</a></li>
+            <li><a title="news" href="index.php" role="button">Начало</a></li>
             <li>
                <div class="dropdown">
                   <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
