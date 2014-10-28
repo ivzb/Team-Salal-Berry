@@ -1,8 +1,8 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Инициативи | GreenUni ..";
+$description = "инициативи";
+$keywords = "инициативи";
 
 my_header($title, $description, $keywords);
 ?>
@@ -16,7 +16,7 @@ my_header($title, $description, $keywords);
                  </div>
 
                  <div class="col-md-6">
-                     <img src="images/green-initiatives.jpg" class="right" />
+                     <img src="images/green-initiatives.jpg" class="right" alt="" />
                  </div>
              </div>
 
@@ -24,19 +24,19 @@ my_header($title, $description, $keywords);
                <div class="col-md-4">
                   <h2>Да рециклираме старите машини</h2>
                   <p>
-                       <img class="fancybox" class="fancybox" src="images/eco.jpg" />
+                       <img class="fancybox" class="fancybox" src="images/eco.jpg" alt=""  />
                   </p>
                </div>
                <div class="col-md-4">
                   <h2>Да спасим клавиатурите от завършилите наши студенти</h2>
                    <p>
-                       <img class="fancybox" src="images/keyboard.jpg" />
+                       <img class="fancybox" src="images/keyboard.jpg" alt="" />
                    </p>
                </div>
                <div class="col-md-4">
                   <h2>Изнеси се от общежитие - спаси хлебарка</h2>
                    <p>
-                       <img class="fancybox" src="images/bug.jpg" />
+                       <img class="fancybox" src="images/bug.jpg" alt="" />
                    </p>
                </div>
             </div>
@@ -45,7 +45,7 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>Да бъдем екип</h2>
                      <p>
-                         <img class="fancybox" src="images/teamwork.jpg" />
+                         <img class="fancybox" src="images/teamwork.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
@@ -63,8 +63,8 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>Да изчистим офиса за 1 ден</h2>
                      <p>
-                         <img class="fancybox" src="images/harmony.jpg" />
-                        <img class="fancybox" src="images/harmony2.jpg" />
+                         <img class="fancybox" src="images/harmony.jpg" alt=""  />
+                        <img class="fancybox" src="images/harmony2.jpg" alt=""  />
                      </p>
                  </div>
              </div>

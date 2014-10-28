@@ -1,8 +1,8 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Контакти | GreenUni ..";
+$description = "Greeuni контакти ";
+$keywords = "контакт, адрес";
 
 my_header($title, $description, $keywords);
 ?>
@@ -20,7 +20,7 @@ my_header($title, $description, $keywords);
                  </div>
 
                  <div class="col-md-6">
-                     <img src="images/morpheus.jpg" class="right" />
+                     <img src="images/morpheus.jpg" class="right" alt="" />
                  </div>
              </div>
 

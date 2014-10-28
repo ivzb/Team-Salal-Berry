@@ -1,8 +1,8 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Наука | GreenUni ..";
+$description = "Ако не знаете англйски не се притеснявайте. На интервю за работа трябва да се държите по следния примерен начин";
+$keywords = "зелена книга, изследвания";
 
 my_header($title, $description, $keywords);
 ?>
@@ -20,7 +20,7 @@ my_header($title, $description, $keywords);
                  </div>
 
                  <div class="col-md-6">
-                     <img src="images/begining.jpg" class="right" />
+                     <img src="images/begining.jpg" class="right" alt="" />
                  </div>
              </div>
 
@@ -28,7 +28,7 @@ my_header($title, $description, $keywords);
                <div class="col-md-4">
                   <h2>ЗЕЛЕНАТА КНИГА НА GreenUni</h2>
                   <p>
-                      <img class="fancybox" src="images/green-book.jpg" />
+                      <img class="fancybox" src="images/green-book.jpg" alt="" />
                   </p>
                </div>
                <div class="col-md-4">
@@ -47,7 +47,7 @@ my_header($title, $description, $keywords);
                <div class="col-md-4">
                   <h2>Изследвания относно фантазии</h2>
                    <p>
-                       <img class="fancybox" src="images/web-fantasy.jpg" />
+                       <img class="fancybox" src="images/web-fantasy.jpg" alt="" />
                    </p>
                </div>
             </div>
@@ -56,19 +56,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                     <h2>Как да счупим Internet - а</h2>
                         <p>
-                            <img class="fancybox" src="images/boss-allegation.jpg" />
+                            <img class="fancybox" src="images/boss-allegation.jpg" alt="" />
                         </p>                     
                  </div>
                  <div class="col-md-4">
                      <h2>Има ли значение размерът?</h2>
                      <p>
-                         <img class="fancybox" src="images/shoes..jpg" />
+                         <img class="fancybox" src="images/shoes..jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                     <h2>Наши разработки</h2>
                      <p>
-                         <img class="fancybox" src="images/stidents.jpg" />
+                         <img class="fancybox" src="images/stidents.jpg" alt="" />
                      </p>
                  </div>
              </div>
@@ -77,19 +77,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                     <h2>Отглеждане на птици в офиса</h2>
                      <p>
-                         <img class="fancybox" src="images/birds.jpg" />
+                         <img class="fancybox" src="images/birds.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Какво да правим когато е топло</h2>
                      <p>
-                         <img class="fancybox" src="images/brightness.jpg" />
+                         <img class="fancybox" src="images/brightness.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                     <h2>Първият ден</h2>
                      <p>
-                         <img class="fancybox" src="images/first-work-day.jpg" />
+                         <img class="fancybox" src="images/first-work-day.jpg" alt="" />
                      </p>
                      
                  </div>
@@ -99,19 +99,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>Какво да правим при ПОЖАР</h2>
                      <p>
-                         <img class="fancybox" src="images/fire.jpg" />
+                         <img class="fancybox" src="images/fire.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Открития за света</h2>
                      <p>
-                         <img class="fancybox" src="images/discovery.jpg" />
+                         <img class="fancybox" src="images/discovery.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                     <h2>Изследвания относно скорост</h2>
                      <p>
-                         <img class="fancybox" src="images/quick-byte.jpg" />
+                         <img class="fancybox" src="images/quick-byte.jpg" alt="" />
                      </p>
                  </div>
 				 </div>
@@ -120,19 +120,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>Как да рециклираме</h2>
                      <p>
-                         <img class="fancybox" src="images/get-green.jpg" />
+                         <img class="fancybox" src="images/get-green.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Когато ни заговори момиче</h2>
                      <p>
-                         <img class="fancybox" src="images/girls.jpg" />
+                         <img class="fancybox" src="images/girls.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Тревата на леля - НЕ Я ГАЗИ!!!</h2>
                      <p>
-                         <img class="fancybox" src="images/grass.jpg" />
+                         <img class="fancybox" src="images/grass.jpg" alt="" />
                      </p>
                  </div>
 				 </div>
@@ -141,19 +141,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>3D МОДЕЛ</h2>
                      <p>
-                         <img class="fancybox" src="images/save-icon.jpg" />
+                         <img class="fancybox" src="images/save-icon.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Влиянието на родителите над децата</h2>
                      <p>
-                         <img class="fancybox" src="images/play_outside2.jpg" />
+                         <img class="fancybox" src="images/play_outside2.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Бъди професионалист</h2>
                      <p>
-                         <img class="fancybox" src="images/it-profesionalist.jpg" />
+                         <img class="fancybox" src="images/it-profesionalist.jpg" alt="" />
                      </p>
                  </div>
 				 </div>
@@ -162,19 +162,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>НАЧИНЪТ</h2>
                      <p>
-                         <img class="fancybox" src="images/kill-life.jpg" />
+                         <img class="fancybox" src="images/kill-life.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>КАК ПРОГРАМИРАНЕТО ВЪЗДЕЙСТВА НА ХОРАТА</h2>
                      <p>
-                         <img class="fancybox" src="images/live.jpg" />
+                         <img class="fancybox" src="images/live.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Структури от данни</h2>
                      <p>
-                         <img class="fancybox" src="images/natural.jpg" />
+                         <img class="fancybox" src="images/natural.jpg" alt="" />
                      </p>
                  </div>
              </div>
@@ -182,19 +182,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                      <h2>Обичай ближния си ...</h2>
                      <p>
-                        <img class="fancybox" src="images/people.jpeg" />
+                        <img class="fancybox" src="images/people.jpeg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>ПЕРФЕКТНАТА ВРЪЗКА</h2>
                      <p>
-                        <img class="fancybox" src="images/relationship.jpg" />
+                        <img class="fancybox" src="images/relationship.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                      <h2>Освобождаване от стреса</h2>
                      <p>
-                         <img class="fancybox" src="images/restartPC.jpg" />
+                         <img class="fancybox" src="images/restartPC.jpg" alt="" />
                      </p>
                  </div>
              </div>
@@ -203,19 +203,19 @@ my_header($title, $description, $keywords);
                  <div class="col-md-4">
                     <h2>Бъди полезен на потребителите</h2>
                      <p>
-                         <img class="fancybox" src="images/helpfull.jpg" />
+                         <img class="fancybox" src="images/helpfull.jpg" alt="" />
                      </p>   
                  </div>
                  <div class="col-md-4">
                      <h2>Изследвания относно вируси</h2>
                      <p>
-                         <img class="fancybox" src="images/boss-crap.jpg" />
+                         <img class="fancybox" src="images/boss-crap.jpg" alt="" />
                      </p>
                  </div>
                  <div class="col-md-4">
                     <h2>Показахме на шефката какво е Internet</h2>
                      <p>
-                         <img class="fancybox" src="images/internet.jpg" />
+                         <img class="fancybox" src="images/internet.jpg" alt="" />
                      </p>
                  </div>
              </div>

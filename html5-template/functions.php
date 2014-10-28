@@ -1,8 +1,5 @@
 <?php
 	function my_header($title, $description, $keywords){
-
-	
-
 ?>
 <!doctype html>
 <html lang="en">
@@ -93,7 +90,7 @@
 			<div class="container">
 				<p class="text-muted">&copy; Salal Berry Team 2014<a href="http://softuni.bg">SoftUni.bg</a>
 	
-	    <a href="http://validator.w3.org/check?uri=referer" target="_blank">
+	  <a href="http://validator.w3.org/check?uri=referer" target="_blank">
                     <img src="images/html5-validator-icon.png" alt="HTML5 Validator">
                 </a>
                 <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
@@ -101,13 +98,7 @@
                 </a>
 	
 			</p>
-				<p class="validator">
-
-          
-            
-         
-	
-				</p>
+			
 			</div>
       </footer>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

@@ -1,8 +1,8 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Обучение | GreenUni";
+$description = "Обучението за образователно-квалификационната степен";
+$keywords = "обучение, специалности";
 
 my_header($title, $description, $keywords);
 ?>
@@ -22,7 +22,7 @@ my_header($title, $description, $keywords);
             </div>
 
             <div class="col-md-6">
-                <img src="images/speciality_2.jpg" class="right" />
+                <img src="images/speciality_2.jpg" class="right" alt="" />
             </div>
         </div>
 
@@ -30,19 +30,19 @@ my_header($title, $description, $keywords);
             <div class="col-md-4">
                 <h2>Администриране на РедРоузес (RedRoses)</h2>
                 <p>
-                    <img class="fancybox" src="images/redroses.jpg" />
+                    <img class="fancybox" src="images/redroses.jpg" alt=""  />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Цветово кодиране на скрити послания с цветни лехи</h2>
                 <p>
-                    <img class="fancybox" src="images/promotion.jpg" />
+                    <img class="fancybox" src="images/promotion.jpg" alt="" />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Хардуер за поддържане на оптимални условия за растеж</h2>
                 <p>
-                    <img class="fancybox" src="images/plant.jpg" />
+                    <img class="fancybox" src="images/plant.jpg" alt="" />
                 </p>
             </div>
         </div>
@@ -51,19 +51,19 @@ my_header($title, $description, $keywords);
             <div class="col-md-4">
                 <h2>Планиране на посевните дейности в офиса</h2>
                 <p>
-                    <img class="fancybox" src="images/planting.jpg" />
+                    <img class="fancybox" src="images/planting.jpg" alt="" />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Архитектурен дизайн на зелени площи</h2>
                 <p>
-                    <img class="fancybox" src="images/architecture_design.jpg" />
+                    <img class="fancybox" src="images/architecture_design.jpg" alt="" />
                 </p>
             </div>
             <div class="col-md-4">
                 <h2>Тестване мекотата на тревните площи в бизнес сграда</h2>
                 <p>
-                    <img class="fancybox" src="images/testing.jpg" />
+                    <img class="fancybox" src="images/testing.jpg" alt="" />
                 </p>
             </div>
         </div>
