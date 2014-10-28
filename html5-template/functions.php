@@ -41,7 +41,7 @@
          <span class="icon-bar"></span>
          </button>
          <div class="navbar-header">
-            <h1><a class="navbar-brand" href="/"><strong>green</strong>uni<sup>&reg;</sup></a></h1>
+            <h1><a class="navbar-brand" href="index.php"><strong>green</strong>uni<sup>&reg;</sup></a></h1>
          </div>
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse-8">
