@@ -1,6 +1,6 @@
 <?php
 include 'functions.php';
-$title = "Welcome to палатковия лагер";
+$title = "Палатков лагер | GreenUni";
 $description = "Еко общежития с почти нула процента замърсяване на околната среда";
 $keywords = "палатка, общежитие, настаняване, тиган, спане, криво, ";
 
@@ -23,7 +23,7 @@ my_header($title, $description, $keywords);
                  </div>
 
                  <div class="col-md-6">
-                     <img src="images/camp.jpg" class="right" />
+                     <img src="images/camp.jpg" class="right" alt=""  />
                  </div>
              </div>
 

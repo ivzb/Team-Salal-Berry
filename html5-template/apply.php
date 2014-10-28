@@ -1,17 +1,17 @@
 <?php
 include 'functions.php';
-$title = "Welcome to GreenUni ..";
-$description = "";
-$keywords = "";
+$title = "Условия за кандидатстване в нашия университет | GreenUni";
+$description = "Необходими условия за кандидатстване в нашия университет";
+$keywords = "кандидатстване,университет";
 
 my_header($title, $description, $keywords);
 ?>
 <!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-body">
-        <img class="are-you-sure" src="images/are-you-sure1.jpg" />
+        <img class="are-you-sure" src="images/are-you-sure1.jpg" alt="" />
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-primary" data-dismiss="modal">Не</button>
@@ -32,7 +32,7 @@ my_header($title, $description, $keywords);
                 </p>
             </div>
             <div class="col-md-6">
-                <img src="images/apply.jpg" class="right" />
+                <img src="images/apply.jpg" class="right" alt=""  />
             </div>
         </div>
 
@@ -43,7 +43,7 @@ my_header($title, $description, $keywords);
                     За да кандидатствате в нашия университет е необходимо да притежавате диплома <span class="important emphasized">ЛИЧНО</span> връчена от <span class="important emphasized">Светлин Наков</span>.
                 </p>
                 <p>
-                    <img class="fancybox" src="images/nakov-award.jpg" />
+                    <img class="fancybox" src="images/nakov-award.jpg" alt=""  />
                 </p>
             </div>
             <div class="col-md-4">
@@ -56,7 +56,7 @@ my_header($title, $description, $keywords);
                     </button>
                 </p>
                 <p>
-                    <img class="fancybox" src="images/greening-course.jpg" />
+                    <img class="fancybox" src="images/greening-course.jpg" alt=""  />
                 </p>
             </div>
             <div class="col-md-4">
@@ -68,7 +68,7 @@ my_header($title, $description, $keywords);
                     Изпитните работи са анонимни. Кандидат-студента попълва данните си във facebook страцита ни. Така се гарантира, че проверяването на изпитните работи ще бъде обективно. При доказан опит за измама или нарушаване на анонимността на конкурса, работата на кандидата се анулира, a участието - прекратява.
                 </p>
                 <p>
-                    <img class="fancybox" src="images/grass-laptop.jpg" />
+                    <img class="fancybox" src="images/grass-laptop.jpg" alt=""  />
                 </p>
             </div>
         </div>
@@ -80,7 +80,7 @@ my_header($title, $description, $keywords);
                      Необходимо е да знаете как се разглобяват всякакъв вид офис техника, портативни устройства, домашна техника.
                 </p>
                 <p>
-                    <img class="fancybox" src="images/destinguish.jpg" />
+                    <img class="fancybox" src="images/destinguish.jpg" alt=""  />
                 </p>
             </div>
             <div class="col-md-4">
@@ -89,7 +89,7 @@ my_header($title, $description, $keywords);
                      Необходимо е да знаете как се преодоляват дребни и досадни софтуерни пречки.
                 </p>
                 <p>
-                    <img class="fancybox" src="images/hacker.jpg" />
+                    <img class="fancybox" src="images/hacker.jpg" alt=""  />
                 </p>
             </div>
         </div>
