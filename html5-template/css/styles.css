@@ -53,7 +53,7 @@ ul.nav a:hover {
 }
 
 .navbar-inverse{
-    /*background-color: #62be1b;*/
+    background-color: #62be1b !important;
 	background-color: transparent;
     background-image:url('../images/fixed-top.png');
     background-repeat: repeat-x;

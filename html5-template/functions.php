@@ -91,11 +91,22 @@
 ?>		
 		<footer>
 			<div class="container">
-				<p class="text-muted">&copy; Salal Berry Team 2014<a href="http://softuni.bg">SoftUni.bg</a></p>
+				<p class="text-muted">&copy; Salal Berry Team 2014<a href="http://softuni.bg">SoftUni.bg</a>
+	
+	    <a href="http://validator.w3.org/check?uri=referer" target="_blank">
+                    <img src="images/html5-validator-icon.png" alt="HTML5 Validator">
+                </a>
+                <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">
+                    <img src="images/css3-validator-icon.png" alt="CSS3 Validator">
+                </a>
+	
+			</p>
 				<p class="validator">
-					<a href="http://jigsaw.w3.org/css-validator/check/referer">
-					<img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!" />
-					</a>
+
+          
+            
+         
+	
 				</p>
 			</div>
       </footer>
