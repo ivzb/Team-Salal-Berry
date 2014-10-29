@@ -11,15 +11,14 @@
       <meta name="author" content="Salal Berry Team">
       <link rel="icon" href="images/favicon.png">
       <title><?php echo $title ?></title>
+  	  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
       <link href="css/bootstrap.css" rel="stylesheet" />
       <link href="css/styles.css" rel="stylesheet" />
       <link rel="stylesheet" type="text/css" media="screen" href="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.css" />
-  	  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
    	  <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 	  <script src="http://cdnjs.cloudflare.com/ajax/libs/fancybox/1.3.4/jquery.fancybox-1.3.4.pack.min.js"></script>
 	  <script src="js/fancybox.js"></script>
-	  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	  <script src="js/toggle.js"></script>
+	  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>	  <script src="js/toggle.js"></script>
 	  <script src="js/are-you-sure.js"></script>
    </head> 
    <body>
@@ -101,8 +100,8 @@
 			
 			</div>
       </footer>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-      <script src="js/bootstrap.min.js"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
+           <script src="js/bootstrap.min.js"></script>
    </body>
 </html>
 <?php 

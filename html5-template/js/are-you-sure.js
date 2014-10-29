@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$(".i-am-sure").click(function() {
-		event.preventDefault();
+		//event.preventDefault();
 		var currentImage = $(document).find('img.are-you-sure').attr("src");
 		
 		if(currentImage == "images/are-you-sure1.jpg") {
