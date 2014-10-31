@@ -21,7 +21,7 @@ my_header($title, $description, $keywords);
                  </div>
 
                  <div class="col-md-6">
-                     <img src="images/about-us.png" class="right" alt="" />
+                     <img src="images/about-us.gif" class="right" alt="" />
                  </div>
              </div>
 
@@ -50,7 +50,7 @@ my_header($title, $description, $keywords);
                       Развити​ето на кадровия ​и изследователски потенциал.
                   </p>
                    <p>
-                       <img class="fancybox" src="images/progress.png" alt="" />
+                       <img class="fancybox" src="images/progress.gif" alt="" />
                    </p>
                </div>
             </div>
