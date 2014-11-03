@@ -10,7 +10,7 @@ my_header($title, $description, $keywords);
          <div class="container">
              <div class="row long">
                  <div class="col-md-6">
-                     <h2>Инициативи</h2>
+                     <h2 class="top-distance">Инициативи</h2>
                      <p class="indent">
                         
                  </div>

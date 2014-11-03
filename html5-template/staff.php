@@ -10,7 +10,7 @@ my_header($title, $description, $keywords);
          <div class="container">
              <div class="row long">
                  <div class="col-md-6">
-                     <h2>Състав</h2>
+                     <h2 class="top-distance">Състав</h2>
                      <div class="about-us">
                         <span class="us">НИЕ &#8594;</span> 
                         <p>- Къде работим?</p>

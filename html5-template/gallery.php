@@ -10,7 +10,7 @@ my_header($title, $description, $keywords);
          <div class="container">
              <div class="row long">
                  <div class="col-md-6">
-                     <h2>ГАЛЕРИЯ</h2>
+                     <h2 class="top-distance">ГАЛЕРИЯ</h2>
                         <div class="about-us">
                             <p class="indent">
                                 Из живота на един студент от <span class="important">SoftUni</span>.

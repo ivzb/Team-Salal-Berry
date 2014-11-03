@@ -10,7 +10,7 @@ my_header($title, $description, $keywords);
          <div class="container">
              <div class="row long">
                  <div class="col-md-6">
-                     <h2>Общежития</h2>
+                     <h2 class="top-distance">Общежития</h2>
                      <p class="indent">
                         <span class="emphasized important">Палатков лагер</span> някъде в покрайнините на град София, <span class="emphasized important">разположен на неопределено място, заради</span> често подавани <span class="emphasized important">оплаквания в общината</span> от колните живущи <span class="emphasized important">към</span> наши изключително културни <span class="emphasized important">студенти</span>. Текущото <span class="emphasized important">местонахождение</span> на кампуса може да бъде <span class="emphasized important">следено в facebook</span>  страницата ни.
                       </p>

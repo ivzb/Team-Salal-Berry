@@ -10,7 +10,7 @@ my_header($title, $description, $keywords);
          <div class="container">
              <div class="row long">
                  <div class="col-md-6">
-                     <h2>Контакти</h2>
+                     <h2 class="top-distance">Контакти</h2>
                      <p class="indent">
                         Адресът на мейлинг листа е  <span class="emphasized important"> info МАЙМУНСКО 'а' green-uni.com [вместо "маймунско а" напишете @ :)]</span>. За да се запишете в него изпратете празен e-mail до <span class="emphasized important">  baceto МАЙМУНСКО 'а' green-uni.com</span>. Администраторът на листа <span class="emphasized important">[демек аз]</span> си запазва правото да изключва и да водя борба срещу абонатите неспазващи контекста на листа, спамещи с глупости и прочее.
                       </p>

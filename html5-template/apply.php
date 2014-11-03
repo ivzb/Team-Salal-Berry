@@ -26,7 +26,7 @@ my_header($title, $description, $keywords);
     <div class="container">
         <div class="row long">
             <div class="col-md-6">
-                <h2>Кандидатстване</h2>
+                <h2 class="top-distance">Кандидатстване</h2>
                 <p class="indent">
                     Необходими условия за кандидатстване в нашия университет.
                 </p>

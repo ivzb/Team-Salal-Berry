@@ -10,7 +10,7 @@ my_header($title, $description, $keywords);
          <div class="container">
              <div class="row long">
                  <div class="col-md-6">
-                     <h2>Наука или КАК ЗАПОЧНА ВСИЧКО</h2>
+                     <h2 class="top-distance">Наука или КАК ЗАПОЧНА ВСИЧКО</h2>
                      <p class="indent">
                         Беше петък следобед. Не че сме суеверни, ама от старото поверие за всеки случай се притеснихме за здравето на шефа. И <span class="emphasized important">седнахме да обсъдим важни проблеми</span> на чаша чай. Е почти чай – цветът е почти такъв, само дето има малко мехурчета и пяна, а и чашите станаха няколко по една. После неясно как <span class="emphasized important"> някой от навалицата (така и не си призна кой е) бутна саксията с цветето на Сийка Шарпа</span>. Като видя разсипаната пръст <span class="emphasized important">Пешо Бекспейса реши да не си губи почивните дни</span> в глупости и пръсна семената райграс за вилата на импровизираната леха. Никой не се сети, че <span class="emphasized important">офисът не се почиства събота и неделя</span>. А <span class="emphasized important">в понеделник</span> идваме и <span class="emphasized important">ИЗНЕНАДА</span> – нов, природосъобразен интериор в успокояващо зелено. И <span class="emphasized important">видя IT бандата</span>, че това е добро. 
                      </p>
