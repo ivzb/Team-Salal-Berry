@@ -9,7 +9,7 @@
       <meta name="description" content="<?php echo $description ?>">
       <meta name="keywords" content="<?php echo $keywords ?>">
       <meta name="author" content="Salal Berry Team">
-      <link rel="icon" href="images/favicon.png">
+      <link rel="icon" href="http://greenuni.cloudvps.bg/images/favicon.png">
       <title><?php echo $title ?></title>
   	  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
       <link href="css/bootstrap.css" rel="stylesheet" />
